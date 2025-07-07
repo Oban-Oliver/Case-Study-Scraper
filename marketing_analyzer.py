@@ -338,9 +338,11 @@ def main():
     
     # Test URLs
     test_urls = [
-        "https://indicium.ai/ai-data-engineering/ai-data-platform-optimization/",
-        "https://indicium.ai/ai-data-advisory/ai-data-strategy/",
-        "https://indicium.ai/partners/databricks/"
+        "https://www.mindfoundry.ai/resources/case-study/reducing-the-cost-of-fraud-claims",
+        "https://www.mindfoundry.ai/resources/case-study/enhanced-pricing",
+        "https://www.mindfoundry.ai/resources/case-study/large-loss",
+        "https://www.mindfoundry.ai/resources/case-study/driving-behaviour",
+        "https://www.mindfoundry.ai/resources/case-study/compressing-data"
     ]
     
     analyzer = MarketingAnalyzer(api_key)

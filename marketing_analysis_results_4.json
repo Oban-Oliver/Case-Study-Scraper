@@ -1,0 +1,27 @@
+{
+  "url": "https://www.mindfoundry.ai/resources/case-study/driving-behaviour",
+  "word_count": 795,
+  "character_count": 5203,
+  "jargon_density": 1.2578616352201257,
+  "process_clarity": 0.37735849056603776,
+  "vague_terms": 0.0,
+  "statistics_usage": 0,
+  "future_past_ratio": 0.0,
+  "openai_analysis": {
+    "readability_score": 6,
+    "persuasiveness_score": 7,
+    "credibility_score": 8,
+    "engagement_score": 6,
+    "call_to_action_strength": 5,
+    "key_themes": [
+      "Driving Behaviour Analysis",
+      "Insurance Risk Assessment",
+      "Telematics Data Utilization",
+      "AI and Machine Learning",
+      "Customer Safety and Rewards"
+    ],
+    "tone_analysis": "professional",
+    "target_audience": "Insurance professionals and stakeholders in the automotive and telematics industries"
+  },
+  "marketing_effectiveness_score": 100
+}

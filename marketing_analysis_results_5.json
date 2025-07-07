@@ -1,0 +1,27 @@
+{
+  "url": "https://www.mindfoundry.ai/resources/case-study/compressing-data",
+  "word_count": 529,
+  "character_count": 3560,
+  "jargon_density": 8.506616257088847,
+  "process_clarity": 1.3232514177693762,
+  "vague_terms": 0.0,
+  "statistics_usage": 1,
+  "future_past_ratio": 0.0,
+  "openai_analysis": {
+    "readability_score": 6,
+    "persuasiveness_score": 7,
+    "credibility_score": 8,
+    "engagement_score": 6,
+    "call_to_action_strength": 7,
+    "key_themes": [
+      "Data Compression",
+      "Real-time Processing",
+      "AI Solutions",
+      "Industrial Applications",
+      "Resource Constraints"
+    ],
+    "tone_analysis": "professional",
+    "target_audience": "Industry professionals in technology and engineering sectors, particularly in defence and national security"
+  },
+  "marketing_effectiveness_score": 100
+}

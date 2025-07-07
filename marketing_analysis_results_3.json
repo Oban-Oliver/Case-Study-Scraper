@@ -1,0 +1,27 @@
+{
+  "url": "https://www.mindfoundry.ai/resources/case-study/large-loss",
+  "word_count": 832,
+  "character_count": 5476,
+  "jargon_density": 3.605769230769231,
+  "process_clarity": 0.4807692307692308,
+  "vague_terms": 1.201923076923077,
+  "statistics_usage": 0,
+  "future_past_ratio": 0.2,
+  "openai_analysis": {
+    "readability_score": 6,
+    "persuasiveness_score": 7,
+    "credibility_score": 8,
+    "engagement_score": 6,
+    "call_to_action_strength": 5,
+    "key_themes": [
+      "Predictive Analytics",
+      "Insurance Risk Management",
+      "Machine Learning Solutions",
+      "Cost Reduction",
+      "Driver Behavior Analysis"
+    ],
+    "tone_analysis": "professional",
+    "target_audience": "Insurance industry professionals and decision-makers"
+  },
+  "marketing_effectiveness_score": 100
+}

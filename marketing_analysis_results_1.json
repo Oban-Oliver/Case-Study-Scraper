@@ -1,0 +1,27 @@
+{
+  "url": "https://www.mindfoundry.ai/resources/case-study/reducing-the-cost-of-fraud-claims",
+  "word_count": 958,
+  "character_count": 6215,
+  "jargon_density": 2.08768267223382,
+  "process_clarity": 0.5219206680584552,
+  "vague_terms": 0.0,
+  "statistics_usage": 1,
+  "future_past_ratio": 0.0,
+  "openai_analysis": {
+    "readability_score": 6,
+    "persuasiveness_score": 7,
+    "credibility_score": 8,
+    "engagement_score": 6,
+    "call_to_action_strength": 5,
+    "key_themes": [
+      "Fraud Detection",
+      "AI Solutions",
+      "Cost Reduction",
+      "Insurance Industry",
+      "Data Integration"
+    ],
+    "tone_analysis": "professional",
+    "target_audience": "Insurance professionals and decision-makers in fraud prevention"
+  },
+  "marketing_effectiveness_score": 100
+}
