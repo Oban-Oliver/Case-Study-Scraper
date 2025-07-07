@@ -450,15 +450,10 @@ def main():
     
     # Test URLs
     test_urls = [
-        "https://www.mesh-ai.com/blog-posts/modern-data-capabilities-to-solve-short-term-challenges-and-power-future-innovation",
-        "https://www.mesh-ai.com/blog-posts/mesh-ai-and-national-grid-ventures-leverage-ai-to-protect-critical-underwater-infrastructure",
-        "https://www.mesh-ai.com/blog-posts/reimagining-an-energy-enterprise-to-mitigate-reporting-fines-by-leveraging-azures-data-governance-solutions",
-        "https://www.mesh-ai.com/blog-posts/reimagining-travelex-unlocking-millions-in-revenue-with-cloud-data-platform-transformation",
-        "https://www.mesh-ai.com/blog-posts/accelerating-net-zero-at-national-grid-electricity-transmission-with-data-ai",
-        "https://www.mesh-ai.com/blog-posts/reimagining-commercial-banking-increasing-agility-through-a-cohesive-ai-strategy",
-        "https://www.mesh-ai.com/blog-posts/transforming-energy-insights-strong-data-foundations-reach-net-zero",
-        "https://www.mesh-ai.com/blog-posts/harnessing-the-power-of-ai-machine-learning-to-drive-value-for-energy-utilities",
-        "https://www.mesh-ai.com/blog-posts/mesh-ai-partners-with-ds-smith-generative-ai-reimagine-packaging"
+        "https://www.mckinsey.com/capabilities/mckinsey-digital/how-we-help-clients/rewired-in-action/aviva-rewiring-the-insurance-claims-journey-with-ai",
+        "https://www.mckinsey.com/capabilities/mckinsey-digital/how-we-help-clients/an-ai-power-play-fueling-the-next-wave-of-innovation-in-the-energy-sector",
+        "https://www.mckinsey.com/industries/metals-and-mining/how-we-help-clients/how-a-steel-plant-in-india-tapped-the-value-of-data-and-won-global-acclaim",
+        "https://www.mckinsey.com/industries/technology-media-and-telecommunications/how-we-help-clients/empowering-telecom-employees-with-personalized-ai-powered-training-and-coaching-tools"
     ]
     
     analyzer = MarketingAnalyzer(api_key)
