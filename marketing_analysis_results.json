@@ -1,0 +1,27 @@
+{
+  "url": "https://tomoro.ai/insights/practical-examples-of-customised-rag-solutions",
+  "word_count": 1861,
+  "character_count": 11150,
+  "jargon_density": 0.0,
+  "process_clarity": 0.42987641053197206,
+  "vague_terms": 0.5373455131649651,
+  "statistics_usage": 0,
+  "future_past_ratio": 0.2857142857142857,
+  "openai_analysis": {
+    "readability_score": 6,
+    "persuasiveness_score": 7,
+    "credibility_score": 8,
+    "engagement_score": 7,
+    "call_to_action_strength": 5,
+    "key_themes": [
+      "Retrieval Augmented Generation (RAG)",
+      "Data Handling Challenges",
+      "Custom Solutions",
+      "Embedding Techniques",
+      "Contextual Summarization"
+    ],
+    "tone_analysis": "technical",
+    "target_audience": "data scientists, AI developers, and technical professionals interested in RAG solutions"
+  },
+  "marketing_effectiveness_score": 100
+}
