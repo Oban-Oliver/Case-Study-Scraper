@@ -57,8 +57,18 @@ class MarketingAnalyzer:
             response = requests.get(url, headers=headers, timeout=10)
             response.raise_for_status()
             
-            # Simple HTML tag removal
+            # Check for bot detection indicators
             html_content = response.text
+            bot_indicators = [
+                'access denied', 'blocked', 'forbidden', 'captcha', 'cloudflare',
+                'bot detected', 'please verify', 'security check', 'rate limit',
+                'too many requests', 'suspicious activity', 'anti-bot'
+            ]
+            
+            html_lower = html_content.lower()
+            for indicator in bot_indicators:
+                if indicator in html_lower:
+                    raise Exception(f"🚫 BOT RESTRICTION DETECTED: The website appears to be blocking automated access. Found '{indicator}' in response.")
             
             # Remove script and style elements
             html_content = re.sub(r'<script[^>]*>.*?</script>', '', html_content, flags=re.DOTALL | re.IGNORECASE)
@@ -71,10 +81,23 @@ class MarketingAnalyzer:
             text_content = re.sub(r'\s+', ' ', text_content)
             text_content = text_content.strip()
             
+            # Check if we got meaningful content
+            if len(text_content) < 100:
+                raise Exception(f"🚫 POSSIBLE BOT RESTRICTION: Very little content extracted ({len(text_content)} characters). The site may be blocking automated access.")
+            
+            # Check for common bot-blocking page patterns
+            if len(text_content) < 500 and any(word in text_content.lower() for word in ['javascript', 'enable', 'browser', 'verify']):
+                raise Exception(f"🚫 BOT RESTRICTION LIKELY: Page seems to require JavaScript or manual verification. Content: {text_content[:200]}...")
+            
             return text_content
             
         except requests.RequestException as e:
-            raise Exception(f"Failed to scrape URL: {str(e)}")
+            if "403" in str(e):
+                raise Exception(f"🚫 BOT RESTRICTION: 403 Forbidden - The website is blocking automated access.")
+            elif "429" in str(e):
+                raise Exception(f"🚫 RATE LIMITED: 429 Too Many Requests - The website is rate limiting requests.")
+            else:
+                raise Exception(f"Failed to scrape URL: {str(e)}")
 
     def count_words(self, text: str) -> int:
         """Count words in text"""
