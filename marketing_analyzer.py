@@ -450,10 +450,12 @@ def main():
     
     # Test URLs
     test_urls = [
-        "https://www.mckinsey.com/capabilities/mckinsey-digital/how-we-help-clients/rewired-in-action/aviva-rewiring-the-insurance-claims-journey-with-ai",
-        "https://www.mckinsey.com/capabilities/mckinsey-digital/how-we-help-clients/an-ai-power-play-fueling-the-next-wave-of-innovation-in-the-energy-sector",
-        "https://www.mckinsey.com/industries/metals-and-mining/how-we-help-clients/how-a-steel-plant-in-india-tapped-the-value-of-data-and-won-global-acclaim",
-        "https://www.mckinsey.com/industries/technology-media-and-telecommunications/how-we-help-clients/empowering-telecom-employees-with-personalized-ai-powered-training-and-coaching-tools"
+        "https://www.satalia.com/case-study/ai-strategy-for-hedge-fund/",
+        "https://www.satalia.com/case-study/workforce-optimisation-for-leading-accountancy-firm/",
+        "https://www.satalia.com/case-study/customer-journey-mapping-for-uk-telco/",
+        "https://www.satalia.com/case-study/workforce-optimisation-for-dfs/",
+        "https://www.satalia.com/case-study/simulation-of-last-mile-capability-for-large-supermarket-chain/",
+        "https://www.satalia.com/case-study/route-optimisation-for-tesco/"
     ]
     
     analyzer = MarketingAnalyzer(api_key)

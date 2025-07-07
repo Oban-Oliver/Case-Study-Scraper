@@ -1,22 +1,147 @@
 [
   {
-    "url": "https://www.mckinsey.com/capabilities/mckinsey-digital/how-we-help-clients/rewired-in-action/aviva-rewiring-the-insurance-claims-journey-with-ai",
-    "error": "\ud83d\udeab BOT RESTRICTION DETECTED: The website appears to be blocking automated access. Found 'captcha' in response.",
+    "url": "https://www.satalia.com/case-study/ai-strategy-for-hedge-fund/",
+    "error": "\ud83d\udeab BOT RESTRICTION DETECTED: The website appears to be blocking automated access. Found 'cloudflare' in response.",
     "status": "failed"
   },
   {
-    "url": "https://www.mckinsey.com/capabilities/mckinsey-digital/how-we-help-clients/an-ai-power-play-fueling-the-next-wave-of-innovation-in-the-energy-sector",
-    "error": "\ud83d\udeab BOT RESTRICTION DETECTED: The website appears to be blocking automated access. Found 'captcha' in response.",
-    "status": "failed"
+    "url": "https://www.satalia.com/case-study/workforce-optimisation-for-leading-accountancy-firm/",
+    "word_count": 443,
+    "character_count": 2748,
+    "jargon_density": 0.0,
+    "process_clarity": 1.580135440180587,
+    "vague_terms": 2.257336343115124,
+    "statistics_usage": 4,
+    "future_past_ratio": 1.25,
+    "passive_voice_usage": 0.0,
+    "openai_analysis": {
+      "readability_score": 6,
+      "persuasiveness_score": 7,
+      "credibility_score": 8,
+      "engagement_score": 6,
+      "call_to_action_strength": 5,
+      "key_themes": [
+        "Workforce Optimization",
+        "Artificial Intelligence",
+        "Efficiency Improvement",
+        "Cost Reduction",
+        "Client Satisfaction"
+      ],
+      "tone_analysis": "professional",
+      "target_audience": "Business leaders and decision-makers in accountancy and related sectors"
+    },
+    "marketing_effectiveness_score": 100
   },
   {
-    "url": "https://www.mckinsey.com/industries/metals-and-mining/how-we-help-clients/how-a-steel-plant-in-india-tapped-the-value-of-data-and-won-global-acclaim",
-    "error": "\ud83d\udeab BOT RESTRICTION DETECTED: The website appears to be blocking automated access. Found 'captcha' in response.",
-    "status": "failed"
+    "url": "https://www.satalia.com/case-study/customer-journey-mapping-for-uk-telco/",
+    "word_count": 448,
+    "character_count": 2848,
+    "jargon_density": 2.232142857142857,
+    "process_clarity": 2.0089285714285716,
+    "vague_terms": 0.0,
+    "statistics_usage": 2,
+    "future_past_ratio": 1.4,
+    "passive_voice_usage": 0.0,
+    "openai_analysis": {
+      "readability_score": 6,
+      "persuasiveness_score": 7,
+      "credibility_score": 8,
+      "engagement_score": 6,
+      "call_to_action_strength": 5,
+      "key_themes": [
+        "Customer Journey Mapping",
+        "AI Solutions",
+        "Efficiency Improvement",
+        "Cost Reduction",
+        "Investment Return"
+      ],
+      "tone_analysis": "professional",
+      "target_audience": "Business executives and decision-makers in telecommunications and related industries"
+    },
+    "marketing_effectiveness_score": 100
   },
   {
-    "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/how-we-help-clients/empowering-telecom-employees-with-personalized-ai-powered-training-and-coaching-tools",
-    "error": "\ud83d\udeab BOT RESTRICTION DETECTED: The website appears to be blocking automated access. Found 'captcha' in response.",
-    "status": "failed"
+    "url": "https://www.satalia.com/case-study/workforce-optimisation-for-dfs/",
+    "word_count": 438,
+    "character_count": 2732,
+    "jargon_density": 1.141552511415525,
+    "process_clarity": 1.82648401826484,
+    "vague_terms": 0.0,
+    "statistics_usage": 4,
+    "future_past_ratio": 2.0,
+    "passive_voice_usage": 0.0,
+    "openai_analysis": {
+      "readability_score": 6,
+      "persuasiveness_score": 7,
+      "credibility_score": 8,
+      "engagement_score": 6,
+      "call_to_action_strength": 5,
+      "key_themes": [
+        "Workforce Optimization",
+        "AI Solutions",
+        "Demand Forecasting",
+        "Customer Experience",
+        "Revenue Growth"
+      ],
+      "tone_analysis": "professional",
+      "target_audience": "Businesses seeking AI solutions for workforce and operational efficiency"
+    },
+    "marketing_effectiveness_score": 100
+  },
+  {
+    "url": "https://www.satalia.com/case-study/simulation-of-last-mile-capability-for-large-supermarket-chain/",
+    "word_count": 494,
+    "character_count": 3145,
+    "jargon_density": 1.0121457489878543,
+    "process_clarity": 1.417004048582996,
+    "vague_terms": 2.0242914979757085,
+    "statistics_usage": 0,
+    "future_past_ratio": 0.5,
+    "passive_voice_usage": 5.0,
+    "openai_analysis": {
+      "readability_score": 6,
+      "persuasiveness_score": 7,
+      "credibility_score": 8,
+      "engagement_score": 6,
+      "call_to_action_strength": 5,
+      "key_themes": [
+        "AI for logistics",
+        "last mile delivery",
+        "optimisation algorithms",
+        "customer experience",
+        "case studies"
+      ],
+      "tone_analysis": "professional",
+      "target_audience": "businesses in the retail and logistics sectors"
+    },
+    "marketing_effectiveness_score": 100
+  },
+  {
+    "url": "https://www.satalia.com/case-study/route-optimisation-for-tesco/",
+    "word_count": 436,
+    "character_count": 2747,
+    "jargon_density": 1.146788990825688,
+    "process_clarity": 1.834862385321101,
+    "vague_terms": 6.8807339449541285,
+    "statistics_usage": 0,
+    "future_past_ratio": 1.25,
+    "passive_voice_usage": 10.0,
+    "openai_analysis": {
+      "readability_score": 6,
+      "persuasiveness_score": 7,
+      "credibility_score": 8,
+      "engagement_score": 6,
+      "call_to_action_strength": 5,
+      "key_themes": [
+        "Route Optimisation",
+        "AI in Logistics",
+        "Operational Efficiency",
+        "Delivery Solutions",
+        "Market Leadership"
+      ],
+      "tone_analysis": "professional",
+      "target_audience": "Businesses seeking AI solutions for logistics and supply chain management"
+    },
+    "marketing_effectiveness_score": 100
   }
 ]

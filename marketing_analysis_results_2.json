@@ -1,28 +1,28 @@
 {
-  "url": "https://www.mesh-ai.com/blog-posts/mesh-ai-and-national-grid-ventures-leverage-ai-to-protect-critical-underwater-infrastructure",
-  "word_count": 993,
-  "character_count": 8717,
-  "jargon_density": 2.014098690835851,
-  "process_clarity": 1.3091641490433032,
-  "vague_terms": 4.028197381671702,
-  "statistics_usage": 5,
-  "future_past_ratio": 0.8333333333333334,
-  "passive_voice_usage": 24.444444444444443,
+  "url": "https://www.satalia.com/case-study/workforce-optimisation-for-leading-accountancy-firm/",
+  "word_count": 443,
+  "character_count": 2748,
+  "jargon_density": 0.0,
+  "process_clarity": 1.580135440180587,
+  "vague_terms": 2.257336343115124,
+  "statistics_usage": 4,
+  "future_past_ratio": 1.25,
+  "passive_voice_usage": 0.0,
   "openai_analysis": {
     "readability_score": 6,
-    "persuasiveness_score": 8,
-    "credibility_score": 9,
-    "engagement_score": 7,
+    "persuasiveness_score": 7,
+    "credibility_score": 8,
+    "engagement_score": 6,
     "call_to_action_strength": 5,
     "key_themes": [
-      "AI in infrastructure monitoring",
-      "Environmental sustainability",
-      "Risk management",
-      "Technological innovation",
-      "Collaboration between companies"
+      "Workforce Optimization",
+      "Artificial Intelligence",
+      "Efficiency Improvement",
+      "Cost Reduction",
+      "Client Satisfaction"
     ],
     "tone_analysis": "professional",
-    "target_audience": "Industry professionals in energy and utilities, technology stakeholders, and environmental advocates"
+    "target_audience": "Business leaders and decision-makers in accountancy and related sectors"
   },
   "marketing_effectiveness_score": 100
 }

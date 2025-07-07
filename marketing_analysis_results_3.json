@@ -1,28 +1,28 @@
 {
-  "url": "https://www.mesh-ai.com/blog-posts/reimagining-an-energy-enterprise-to-mitigate-reporting-fines-by-leveraging-azures-data-governance-solutions",
-  "word_count": 1305,
-  "character_count": 10793,
-  "jargon_density": 3.0651340996168583,
-  "process_clarity": 1.2260536398467434,
-  "vague_terms": 2.2988505747126435,
-  "statistics_usage": 0,
-  "future_past_ratio": 0.16666666666666666,
-  "passive_voice_usage": 16.94915254237288,
+  "url": "https://www.satalia.com/case-study/customer-journey-mapping-for-uk-telco/",
+  "word_count": 448,
+  "character_count": 2848,
+  "jargon_density": 2.232142857142857,
+  "process_clarity": 2.0089285714285716,
+  "vague_terms": 0.0,
+  "statistics_usage": 2,
+  "future_past_ratio": 1.4,
+  "passive_voice_usage": 0.0,
   "openai_analysis": {
-    "readability_score": 5,
+    "readability_score": 6,
     "persuasiveness_score": 7,
     "credibility_score": 8,
     "engagement_score": 6,
     "call_to_action_strength": 5,
     "key_themes": [
-      "Data Governance",
-      "Energy Sector Transformation",
-      "Regulatory Compliance",
-      "Microsoft Azure Solutions",
-      "Data-Driven Decision Making"
+      "Customer Journey Mapping",
+      "AI Solutions",
+      "Efficiency Improvement",
+      "Cost Reduction",
+      "Investment Return"
     ],
     "tone_analysis": "professional",
-    "target_audience": "Energy sector professionals and decision-makers"
+    "target_audience": "Business executives and decision-makers in telecommunications and related industries"
   },
   "marketing_effectiveness_score": 100
 }

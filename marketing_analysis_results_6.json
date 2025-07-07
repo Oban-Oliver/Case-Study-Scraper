@@ -1,28 +1,28 @@
 {
-  "url": "https://www.mesh-ai.com/blog-posts/reimagining-commercial-banking-increasing-agility-through-a-cohesive-ai-strategy",
-  "word_count": 1441,
-  "character_count": 11726,
-  "jargon_density": 2.081887578070784,
-  "process_clarity": 1.040943789035392,
-  "vague_terms": 8.327550312283137,
-  "statistics_usage": 1,
-  "future_past_ratio": 1.1111111111111112,
-  "passive_voice_usage": 18.181818181818183,
+  "url": "https://www.satalia.com/case-study/route-optimisation-for-tesco/",
+  "word_count": 436,
+  "character_count": 2747,
+  "jargon_density": 1.146788990825688,
+  "process_clarity": 1.834862385321101,
+  "vague_terms": 6.8807339449541285,
+  "statistics_usage": 0,
+  "future_past_ratio": 1.25,
+  "passive_voice_usage": 10.0,
   "openai_analysis": {
-    "readability_score": 5,
+    "readability_score": 6,
     "persuasiveness_score": 7,
     "credibility_score": 8,
     "engagement_score": 6,
-    "call_to_action_strength": 7,
+    "call_to_action_strength": 5,
     "key_themes": [
-      "AI Integration",
-      "Operational Agility",
-      "Cost Control",
-      "Innovation in Banking",
-      "Strategic Collaboration"
+      "Route Optimisation",
+      "AI in Logistics",
+      "Operational Efficiency",
+      "Delivery Solutions",
+      "Market Leadership"
     ],
     "tone_analysis": "professional",
-    "target_audience": "Financial services professionals and decision-makers in commercial banking"
+    "target_audience": "Businesses seeking AI solutions for logistics and supply chain management"
   },
   "marketing_effectiveness_score": 100
 }
