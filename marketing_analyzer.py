@@ -23,11 +23,19 @@ class MarketingAnalyzer:
         # Define jargon terms for AI/ML
         self.jargon_terms = [
             'artificial intelligence', 'machine learning', 'deep learning', 'neural network',
-            'algorithm', 'automation', 'predictive', 'optimization', 'analytics',
+            'algorithm', 'algorithms', 'automation', 'predictive', 'optimization', 'analytics',
             'data science', 'big data', 'AI-powered', 'ML-driven', 'intelligent',
             'cognitive', 'NLP', 'computer vision', 'reinforcement learning',
             'supervised learning', 'unsupervised learning', 'model training',
-            'feature engineering', 'data mining', 'pattern recognition'
+            'feature engineering', 'data mining', 'pattern recognition',
+            'AI', 'ML', 'model', 'models', 'dataset', 'datasets', 'training',
+            'inference', 'prediction', 'classification', 'regression', 'clustering',
+            'neural', 'network', 'networks', 'tensorflow', 'pytorch', 'sklearn',
+            'transformer', 'embedding', 'embeddings', 'vector', 'vectors',
+            'hyperparameter', 'gradient', 'backpropagation', 'overfitting',
+            'underfitting', 'cross-validation', 'ensemble', 'boosting',
+            'bagging', 'random forest', 'decision tree', 'SVM', 'k-means',
+            'dimensionality reduction', 'feature selection', 'anomaly detection'
         ]
         
         # Define vague/buzzword terms
@@ -36,7 +44,14 @@ class MarketingAnalyzer:
             'breakthrough', 'next-generation', 'state-of-the-art', 'world-class',
             'industry-leading', 'best-in-class', 'synergy', 'leverage',
             'scalable', 'robust', 'seamless', 'holistic', 'strategic',
-            'transformative', 'disruptive', 'paradigm', 'ecosystem'
+            'transformative', 'disruptive', 'paradigm', 'ecosystem',
+            'groundbreaking', 'pioneering', 'visionary', 'revolutionary',
+            'unprecedented', 'comprehensive', 'advanced', 'sophisticated',
+            'powerful', 'superior', 'optimal', 'premier', 'ultimate',
+            'exceptional', 'remarkable', 'outstanding', 'unparalleled',
+            'leading-edge', 'breakthrough', 'revolutionary', 'paradigm-shifting',
+            'mission-critical', 'enterprise-grade', 'next-level', 'game-changer',
+            'synergistic', 'streamlined', 'optimized', 'enhanced', 'improved'
         ]
         
         # Action verbs for process clarity
@@ -44,7 +59,15 @@ class MarketingAnalyzer:
             'analyze', 'build', 'create', 'develop', 'implement', 'execute',
             'generate', 'process', 'optimize', 'automate', 'integrate',
             'deploy', 'configure', 'customize', 'train', 'validate',
-            'test', 'monitor', 'evaluate', 'measure', 'track'
+            'test', 'monitor', 'evaluate', 'measure', 'track',
+            'design', 'construct', 'establish', 'launch', 'deliver',
+            'manage', 'operate', 'maintain', 'support', 'enhance',
+            'improve', 'upgrade', 'scale', 'expand', 'accelerate',
+            'streamline', 'facilitate', 'enable', 'achieve', 'accomplish',
+            'perform', 'conduct', 'run', 'handle', 'control',
+            'calculate', 'compute', 'determine', 'identify', 'detect',
+            'extract', 'transform', 'load', 'migrate', 'update',
+            'synchronize', 'backup', 'restore', 'secure', 'protect'
         ]
 
     def scrape_url(self, url: str) -> str:
@@ -138,27 +161,77 @@ class MarketingAnalyzer:
 
     def calculate_statistics_usage(self, text: str) -> int:
         """Calculate statistics usage (quantitative data sentences)"""
-        # Look for numbers, percentages, and statistical terms
+        # Comprehensive patterns for numerical data points
         stat_patterns = [
-            r'\b\d+%\b',  # percentages
-            r'\b\d+\.\d+%\b',  # decimal percentages
-            r'\b\d+x\b',  # multipliers
-            r'\b\d+\s*(times|fold)\b',  # fold increases
-            r'\b\d+\s*(million|billion|thousand)\b',  # large numbers
-            r'\b\d+\s*(percent|percentage)\b',  # percent spelled out
-            r'\b(increase|decrease|improve|reduction)\s+of\s+\d+\b',  # improvements
+            r'\b\d+%\b',  # percentages: 50%
+            r'\b\d+\.\d+%\b',  # decimal percentages: 12.5%
+            r'\b\d+x\b',  # multipliers: 3x
+            r'\b\d+\s*(times|fold)\b',  # fold increases: 5 times
+            r'\b\d+\s*(million|billion|thousand|k)\b',  # large numbers: 2 million
+            r'\b\d+\s*(percent|percentage)\b',  # percent spelled out: 30 percent
+            r'\b(increase|decrease|improve|reduction)\s+of\s+\d+\b',  # improvements: increase of 20
+            r'\b\d+\s*(years?|months?|weeks?|days?|hours?|minutes?)\b',  # time periods: 6 months
+            r'\b\d+\s*(claims?|cases?|customers?|users?|clients?)\b',  # counts: 100 claims
+            r'\b\d+\s*(dollars?|pounds?|euros?|USD|GBP|EUR|\$|£|€)\b',  # currency: 1000 dollars
+            r'\b\$\d+\b',  # dollar amounts: $500
+            r'\b£\d+\b',  # pound amounts: £300
+            r'\b€\d+\b',  # euro amounts: €400
+            r'\b\d+\s*(GB|MB|TB|KB)\b',  # data sizes: 50 GB
+            r'\b\d+\s*(seconds?|ms|milliseconds?)\b',  # time measurements: 200 ms
+            r'\b\d+\s*(accuracy|precision|recall|f1-score)\b',  # ML metrics: 95% accuracy
+            r'\b\d+\s*(faster|slower|quicker|better|worse)\b',  # comparisons: 2x faster
+            r'\b\d+\s*(points?|basis points?|bps)\b',  # financial metrics: 50 basis points
+            r'\b\d+\s*(ROI|return)\b',  # ROI metrics: 300% ROI
+            r'\b\d+\s*(ratio|rate)\b',  # ratios: 3:1 ratio
+            r'\b\d+:\d+\b',  # ratios: 3:1
+            r'\b\d+\s*(more|less|additional|extra)\b',  # quantities: 20% more
+            r'\b\d+\s*(employees?|staff|people|individuals?)\b',  # headcount: 50 employees
+            r'\b\d+\s*(locations?|offices?|sites?|facilities?)\b',  # locations: 10 locations
+            r'\b\d+\s*(projects?|initiatives?|programs?)\b',  # projects: 15 projects
+            r'\b\d+\s*(models?|algorithms?|systems?)\b',  # technical counts: 5 models
+            r'\b\d+\s*(datasets?|records?|samples?)\b',  # data counts: 1000 records
+            r'\b\d+\s*(features?|variables?|dimensions?)\b',  # feature counts: 50 features
+            r'\b\d+\s*(iterations?|epochs?|steps?)\b',  # training metrics: 100 epochs
+            r'\b\d+\s*(cost|costs|expense|expenses)\b',  # costs: $1000 cost
+            r'\b\d+\s*(saving|savings|reduction|decrease)\b',  # savings: 20% savings
+            r'\b\d+\s*(growth|increase|improvement)\b',  # growth: 15% growth
+            r'\b\d+\s*(efficiency|performance|throughput)\b',  # performance: 80% efficiency
+            r'\b\d+\s*(uptime|availability|reliability)\b',  # uptime: 99.9% uptime
+            r'\b(over|under|above|below|around|approximately|roughly)\s+\d+\b',  # approximations: over 100
+            r'\b(up to|as much as|at least|minimum|maximum|max|min)\s+\d+\b',  # ranges: up to 50
+            r'\b\d+\s*(square feet|sq ft|meters|kilometres?|miles?)\b',  # measurements: 1000 sq ft
+            r'\b\d+\s*(tons?|kilos?|pounds?|kg|lbs?)\b',  # weights: 500 kg
+            r'\b\d+\s*(degrees?|celsius|fahrenheit|°C|°F)\b',  # temperatures: 25 degrees
         ]
         
         stat_count = 0
         for pattern in stat_patterns:
-            stat_count += len(re.findall(pattern, text, re.IGNORECASE))
+            matches = re.findall(pattern, text, re.IGNORECASE)
+            stat_count += len(matches)
         
         return stat_count
 
     def calculate_future_past_ratio(self, text: str) -> float:
         """Calculate future vs past focus ratio"""
-        future_terms = ['will', 'shall', 'going to', 'future', 'upcoming', 'next', 'tomorrow', 'plan', 'intend']
-        past_terms = ['was', 'were', 'had', 'did', 'previous', 'last', 'ago', 'before', 'earlier', 'historical']
+        future_terms = [
+            'will', 'shall', 'going to', 'future', 'upcoming', 'next', 'tomorrow', 
+            'plan', 'intend', 'expect', 'anticipate', 'forecast', 'predict',
+            'potential', 'opportunity', 'possibilities', 'prospects', 'roadmap',
+            'vision', 'strategy', 'goals', 'objectives', 'targets', 'ambitions',
+            'pipeline', 'scheduled', 'planned', 'intended', 'proposed',
+            'coming', 'approaching', 'forthcoming', 'imminent', 'eventual',
+            'later', 'soon', 'eventually', 'ultimately', 'subsequently'
+        ]
+        
+        past_terms = [
+            'was', 'were', 'had', 'did', 'previous', 'last', 'ago', 'before', 
+            'earlier', 'historical', 'formerly', 'previously', 'initially',
+            'originally', 'traditionally', 'historically', 'past', 'completed',
+            'finished', 'accomplished', 'achieved', 'delivered', 'implemented',
+            'launched', 'established', 'created', 'built', 'developed',
+            'since', 'until', 'during', 'when', 'while', 'after',
+            'old', 'legacy', 'existing', 'current', 'present', 'ongoing'
+        ]
         
         text_lower = text.lower()
         
@@ -174,11 +247,20 @@ class MarketingAnalyzer:
 
     def calculate_passive_voice_usage(self, text: str) -> float:
         """Calculate passive voice usage (percentage of sentences with passive voice)"""
-        # Common passive voice patterns
+        # Comprehensive passive voice patterns
         passive_patterns = [
             r'\b(is|are|was|were|being|been|be)\s+\w+ed\b',  # to be + past participle
             r'\b(is|are|was|were|being|been|be)\s+\w+en\b',  # to be + past participle ending in -en
-            r'\b(is|are|was|were|being|been|be)\s+(made|done|given|taken|written|spoken|broken|chosen|driven|eaten|fallen|forgotten|gotten|hidden|known|seen|shown|stolen|thrown|worn)\b',  # irregular past participles
+            r'\b(has|have|had)\s+been\s+\w+ed\b',  # perfect passive: has been + past participle
+            r'\b(has|have|had)\s+been\s+\w+en\b',  # perfect passive: has been + past participle -en
+            r'\b(will|would|can|could|may|might|must|should)\s+be\s+\w+ed\b',  # modal + be + past participle
+            r'\b(will|would|can|could|may|might|must|should)\s+be\s+\w+en\b',  # modal + be + past participle -en
+            r'\b(is|are|was|were|being|been|be)\s+(made|done|given|taken|written|spoken|broken|chosen|driven|eaten|fallen|forgotten|gotten|hidden|known|seen|shown|stolen|thrown|worn|built|brought|bought|caught|fought|found|held|kept|left|lost|paid|said|sold|sent|taught|told|thought|understood|won|led|fed|met|read|heard|felt|meant|spent|slept|swept|wept|dealt|dreamt|learnt|burnt|spelt)\b',  # irregular past participles
+            r'\b(has|have|had)\s+been\s+(made|done|given|taken|written|spoken|broken|chosen|driven|eaten|fallen|forgotten|gotten|hidden|known|seen|shown|stolen|thrown|worn|built|brought|bought|caught|fought|found|held|kept|left|lost|paid|said|sold|sent|taught|told|thought|understood|won|led|fed|met|read|heard|felt|meant|spent|slept|swept|wept|dealt|dreamt|learnt|burnt|spelt)\b',  # perfect passive irregular
+            r'\b(will|would|can|could|may|might|must|should)\s+be\s+(made|done|given|taken|written|spoken|broken|chosen|driven|eaten|fallen|forgotten|gotten|hidden|known|seen|shown|stolen|thrown|worn|built|brought|bought|caught|fought|found|held|kept|left|lost|paid|said|sold|sent|taught|told|thought|understood|won|led|fed|met|read|heard|felt|meant|spent|slept|swept|wept|dealt|dreamt|learnt|burnt|spelt)\b',  # modal passive irregular
+            r'\b(get|gets|got|getting)\s+\w+ed\b',  # get passive
+            r'\b(get|gets|got|getting)\s+\w+en\b',  # get passive -en
+            r'\b(get|gets|got|getting)\s+(made|done|given|taken|written|spoken|broken|chosen|driven|eaten|fallen|forgotten|gotten|hidden|known|seen|shown|stolen|thrown|worn)\b',  # get passive irregular
         ]
         
         # Split text into sentences

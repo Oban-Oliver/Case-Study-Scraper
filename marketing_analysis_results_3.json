@@ -2,12 +2,12 @@
   "url": "https://www.mindfoundry.ai/resources/case-study/large-loss",
   "word_count": 832,
   "character_count": 5476,
-  "jargon_density": 3.605769230769231,
-  "process_clarity": 0.4807692307692308,
-  "vague_terms": 1.201923076923077,
+  "jargon_density": 7.8125,
+  "process_clarity": 1.201923076923077,
+  "vague_terms": 4.807692307692308,
   "statistics_usage": 0,
-  "future_past_ratio": 0.2,
-  "passive_voice_usage": 13.157894736842104,
+  "future_past_ratio": 0.4444444444444444,
+  "passive_voice_usage": 15.789473684210526,
   "openai_analysis": {
     "readability_score": 6,
     "persuasiveness_score": 7,
@@ -22,7 +22,7 @@
       "Driver Behavior Analysis"
     ],
     "tone_analysis": "professional",
-    "target_audience": "Insurance professionals and decision-makers in risk management"
+    "target_audience": "Insurance industry professionals and decision-makers"
   },
   "marketing_effectiveness_score": 100
 }

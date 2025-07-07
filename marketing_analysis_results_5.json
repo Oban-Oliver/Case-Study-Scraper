@@ -2,9 +2,9 @@
   "url": "https://www.mindfoundry.ai/resources/case-study/compressing-data",
   "word_count": 529,
   "character_count": 3560,
-  "jargon_density": 8.506616257088847,
-  "process_clarity": 1.3232514177693762,
-  "vague_terms": 0.0,
+  "jargon_density": 9.45179584120983,
+  "process_clarity": 2.2684310018903595,
+  "vague_terms": 1.890359168241966,
   "statistics_usage": 1,
   "future_past_ratio": 0.0,
   "passive_voice_usage": 11.11111111111111,
@@ -17,12 +17,12 @@
     "key_themes": [
       "Data Compression",
       "Real-time Processing",
-      "Resource Constraints",
       "Intelligent Sampling",
+      "Resource Constraints",
       "Industrial Applications"
     ],
     "tone_analysis": "professional",
-    "target_audience": "Industry professionals in data science and engineering, particularly in sectors like Defence and National Security"
+    "target_audience": "Industry professionals in technology and data management sectors"
   },
   "marketing_effectiveness_score": 100
 }

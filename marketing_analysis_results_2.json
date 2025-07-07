@@ -2,11 +2,11 @@
   "url": "https://www.mindfoundry.ai/resources/case-study/enhanced-pricing",
   "word_count": 616,
   "character_count": 4043,
-  "jargon_density": 2.435064935064935,
-  "process_clarity": 0.974025974025974,
+  "jargon_density": 8.116883116883116,
+  "process_clarity": 1.2987012987012987,
   "vague_terms": 0.0,
   "statistics_usage": 0,
-  "future_past_ratio": 0.0,
+  "future_past_ratio": 0.75,
   "passive_voice_usage": 0.0,
   "openai_analysis": {
     "readability_score": 6,
@@ -15,11 +15,11 @@
     "engagement_score": 7,
     "call_to_action_strength": 6,
     "key_themes": [
-      "AI in Pricing Models",
-      "Customer Retention",
-      "Data Integration",
-      "Market Competitiveness",
-      "Risk Assessment"
+      "AI in pricing models",
+      "Data integration",
+      "Customer retention",
+      "Market competitiveness",
+      "Risk assessment"
     ],
     "tone_analysis": "professional",
     "target_audience": "Insurance industry professionals and decision-makers"

@@ -3,21 +3,21 @@
     "url": "https://www.mindfoundry.ai/resources/case-study/reducing-the-cost-of-fraud-claims",
     "word_count": 958,
     "character_count": 6215,
-    "jargon_density": 2.08768267223382,
-    "process_clarity": 0.5219206680584552,
-    "vague_terms": 0.0,
-    "statistics_usage": 1,
-    "future_past_ratio": 0.0,
-    "passive_voice_usage": 9.523809523809524,
+    "jargon_density": 7.828810020876826,
+    "process_clarity": 1.3569937369519833,
+    "vague_terms": 2.08768267223382,
+    "statistics_usage": 4,
+    "future_past_ratio": 0.1111111111111111,
+    "passive_voice_usage": 14.285714285714285,
     "openai_analysis": {
-      "readability_score": 6,
+      "readability_score": 5,
       "persuasiveness_score": 7,
       "credibility_score": 8,
-      "engagement_score": 7,
-      "call_to_action_strength": 6,
+      "engagement_score": 6,
+      "call_to_action_strength": 5,
       "key_themes": [
         "Fraud Detection",
-        "AI Solutions",
+        "AI Technology",
         "Insurance Industry",
         "Cost Reduction",
         "Data Integration"
@@ -31,11 +31,11 @@
     "url": "https://www.mindfoundry.ai/resources/case-study/enhanced-pricing",
     "word_count": 616,
     "character_count": 4043,
-    "jargon_density": 2.435064935064935,
-    "process_clarity": 0.974025974025974,
+    "jargon_density": 8.116883116883116,
+    "process_clarity": 1.2987012987012987,
     "vague_terms": 0.0,
     "statistics_usage": 0,
-    "future_past_ratio": 0.0,
+    "future_past_ratio": 0.75,
     "passive_voice_usage": 0.0,
     "openai_analysis": {
       "readability_score": 6,
@@ -44,11 +44,11 @@
       "engagement_score": 7,
       "call_to_action_strength": 6,
       "key_themes": [
-        "AI in Pricing Models",
-        "Customer Retention",
-        "Data Integration",
-        "Market Competitiveness",
-        "Risk Assessment"
+        "AI in pricing models",
+        "Data integration",
+        "Customer retention",
+        "Market competitiveness",
+        "Risk assessment"
       ],
       "tone_analysis": "professional",
       "target_audience": "Insurance industry professionals and decision-makers"
@@ -59,12 +59,12 @@
     "url": "https://www.mindfoundry.ai/resources/case-study/large-loss",
     "word_count": 832,
     "character_count": 5476,
-    "jargon_density": 3.605769230769231,
-    "process_clarity": 0.4807692307692308,
-    "vague_terms": 1.201923076923077,
+    "jargon_density": 7.8125,
+    "process_clarity": 1.201923076923077,
+    "vague_terms": 4.807692307692308,
     "statistics_usage": 0,
-    "future_past_ratio": 0.2,
-    "passive_voice_usage": 13.157894736842104,
+    "future_past_ratio": 0.4444444444444444,
+    "passive_voice_usage": 15.789473684210526,
     "openai_analysis": {
       "readability_score": 6,
       "persuasiveness_score": 7,
@@ -79,7 +79,7 @@
         "Driver Behavior Analysis"
       ],
       "tone_analysis": "professional",
-      "target_audience": "Insurance professionals and decision-makers in risk management"
+      "target_audience": "Insurance industry professionals and decision-makers"
     },
     "marketing_effectiveness_score": 100
   },
@@ -87,12 +87,12 @@
     "url": "https://www.mindfoundry.ai/resources/case-study/driving-behaviour",
     "word_count": 795,
     "character_count": 5203,
-    "jargon_density": 1.2578616352201257,
-    "process_clarity": 0.37735849056603776,
-    "vague_terms": 0.0,
-    "statistics_usage": 0,
-    "future_past_ratio": 0.0,
-    "passive_voice_usage": 5.405405405405405,
+    "jargon_density": 3.7735849056603774,
+    "process_clarity": 1.257861635220126,
+    "vague_terms": 1.2578616352201257,
+    "statistics_usage": 3,
+    "future_past_ratio": 0.2,
+    "passive_voice_usage": 10.81081081081081,
     "openai_analysis": {
       "readability_score": 6,
       "persuasiveness_score": 7,
@@ -100,14 +100,14 @@
       "engagement_score": 6,
       "call_to_action_strength": 5,
       "key_themes": [
-        "Telematics Data",
-        "Risk Assessment",
-        "Safer Driving",
+        "Driving Behaviour Analysis",
+        "Risk Reduction",
+        "Telematics Data Utilization",
         "Insurance Innovation",
         "AI and Machine Learning"
       ],
       "tone_analysis": "professional",
-      "target_audience": "Insurance professionals and stakeholders in the automotive and technology sectors"
+      "target_audience": "Insurance professionals and stakeholders in the automotive and telematics industries"
     },
     "marketing_effectiveness_score": 100
   },
@@ -115,9 +115,9 @@
     "url": "https://www.mindfoundry.ai/resources/case-study/compressing-data",
     "word_count": 529,
     "character_count": 3560,
-    "jargon_density": 8.506616257088847,
-    "process_clarity": 1.3232514177693762,
-    "vague_terms": 0.0,
+    "jargon_density": 9.45179584120983,
+    "process_clarity": 2.2684310018903595,
+    "vague_terms": 1.890359168241966,
     "statistics_usage": 1,
     "future_past_ratio": 0.0,
     "passive_voice_usage": 11.11111111111111,
@@ -130,12 +130,12 @@
       "key_themes": [
         "Data Compression",
         "Real-time Processing",
-        "Resource Constraints",
         "Intelligent Sampling",
+        "Resource Constraints",
         "Industrial Applications"
       ],
       "tone_analysis": "professional",
-      "target_audience": "Industry professionals in data science and engineering, particularly in sectors like Defence and National Security"
+      "target_audience": "Industry professionals in technology and data management sectors"
     },
     "marketing_effectiveness_score": 100
   }
