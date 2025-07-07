@@ -450,11 +450,14 @@ def main():
     
     # Test URLs
     test_urls = [
-        "https://datatonic.com/case-studies/marketing-analytics-asos/",
-        "https://datatonic.com/case-studies/slashing-invoice-processing-costs-bigquery-docai-genai/",
-        "https://datatonic.com/case-studies/creating-a-powerful-streaming-analytics-platform-for-sky/",
-        "https://datatonic.com/case-studies/analytics-platform-moneysupermarket/",
-        "https://datatonic.com/case-studies/self-serve-analytics-asset-management-fintech/"
+        "https://tomoro.ai/insights/practical-examples-of-customised-rag-solutions",
+        "https://tomoro.ai/insights/heuristics-for-agentic-system-design",
+        "https://tomoro.ai/insights/why-all-the-fuss-about-mcp",
+        "https://tomoro.ai/insights/bringing-deep-research-to-enterprise",
+        "https://tomoro.ai/insights/designing-ai-solutions-emerging-patterns-in-ai-experience-design",
+        "https://tomoro.ai/insights/building-safe-chat-agents-at-100000s-messages-per-day-scale-for-high-risk-businesses",
+        "https://tomoro.ai/insights/retrieval-augmented-generation-in-2025",
+        "https://tomoro.ai/insights/enterprise-ai-in-2025"
     ]
     
     analyzer = MarketingAnalyzer(api_key)

@@ -1,13 +1,13 @@
 {
-  "url": "https://datatonic.com/case-studies/analytics-platform-moneysupermarket/",
-  "word_count": 595,
-  "character_count": 4483,
-  "jargon_density": 33.61344537815126,
-  "process_clarity": 2.1848739495798317,
-  "vague_terms": 13.445378151260504,
-  "statistics_usage": 2,
-  "future_past_ratio": 0.5,
-  "passive_voice_usage": 10.526315789473683,
+  "url": "https://tomoro.ai/insights/bringing-deep-research-to-enterprise",
+  "word_count": 1394,
+  "character_count": 9050,
+  "jargon_density": 1.0760401721664274,
+  "process_clarity": 1.0043041606886656,
+  "vague_terms": 3.586800573888092,
+  "statistics_usage": 3,
+  "future_past_ratio": 0.5714285714285714,
+  "passive_voice_usage": 14.0625,
   "openai_analysis": {
     "readability_score": 6,
     "persuasiveness_score": 7,
@@ -15,14 +15,14 @@
     "engagement_score": 6,
     "call_to_action_strength": 5,
     "key_themes": [
-      "Analytics Platform Development",
-      "Machine Learning Integration",
-      "Cloud Migration",
-      "Data Optimization",
-      "Customer Engagement"
+      "AI Research",
+      "Enterprise Solutions",
+      "Data Integration",
+      "Competitive Advantage",
+      "User-Centric Tools"
     ],
     "tone_analysis": "professional",
-    "target_audience": "Business professionals in data analytics and technology sectors"
+    "target_audience": "Business professionals and decision-makers in industries such as pharmaceuticals, finance, and law"
   },
-  "marketing_effectiveness_score": 98.69336576735958
+  "marketing_effectiveness_score": 100
 }

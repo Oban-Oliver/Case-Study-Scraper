@@ -1,28 +1,28 @@
 {
-  "url": "https://datatonic.com/case-studies/creating-a-powerful-streaming-analytics-platform-for-sky/",
-  "word_count": 680,
-  "character_count": 4782,
-  "jargon_density": 8.088235294117649,
-  "process_clarity": 1.1764705882352942,
-  "vague_terms": 10.294117647058824,
-  "statistics_usage": 6,
-  "future_past_ratio": 0.6,
-  "passive_voice_usage": 20.833333333333336,
+  "url": "https://tomoro.ai/insights/why-all-the-fuss-about-mcp",
+  "word_count": 1541,
+  "character_count": 10346,
+  "jargon_density": 3.244646333549643,
+  "process_clarity": 0.8436080467229071,
+  "vague_terms": 5.840363400389357,
+  "statistics_usage": 0,
+  "future_past_ratio": 0.2,
+  "passive_voice_usage": 5.405405405405405,
   "openai_analysis": {
-    "readability_score": 6,
-    "persuasiveness_score": 7,
-    "credibility_score": 8,
+    "readability_score": 7,
+    "persuasiveness_score": 8,
+    "credibility_score": 9,
     "engagement_score": 7,
     "call_to_action_strength": 6,
     "key_themes": [
-      "Streaming Analytics",
-      "Big Data",
-      "Customer Insights",
-      "Data Management",
-      "Partnerships"
+      "Model Context Protocol (MCP)",
+      "AI development",
+      "Large Language Models (LLMs)",
+      "Collaboration in technology",
+      "Context management"
     ],
     "tone_analysis": "professional",
-    "target_audience": "Business professionals in media and telecommunications, data engineers, and decision-makers in analytics"
+    "target_audience": "AI developers and industry professionals"
   },
   "marketing_effectiveness_score": 100
 }

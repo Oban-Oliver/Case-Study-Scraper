@@ -1,13 +1,13 @@
 {
-  "url": "https://www.mesh-ai.com/blog-posts/harnessing-the-power-of-ai-machine-learning-to-drive-value-for-energy-utilities",
-  "word_count": 1361,
-  "character_count": 11010,
-  "jargon_density": 5.8780308596620126,
-  "process_clarity": 1.763409257898604,
-  "vague_terms": 5.8780308596620126,
-  "statistics_usage": 0,
-  "future_past_ratio": 1.3333333333333333,
-  "passive_voice_usage": 21.153846153846153,
+  "url": "https://tomoro.ai/insights/enterprise-ai-in-2025",
+  "word_count": 1378,
+  "character_count": 8634,
+  "jargon_density": 5.079825834542816,
+  "process_clarity": 1.0885341074020318,
+  "vague_terms": 2.9027576197387517,
+  "statistics_usage": 5,
+  "future_past_ratio": 0.8571428571428571,
+  "passive_voice_usage": 6.41025641025641,
   "openai_analysis": {
     "readability_score": 6,
     "persuasiveness_score": 7,
@@ -15,14 +15,14 @@
     "engagement_score": 7,
     "call_to_action_strength": 6,
     "key_themes": [
-      "AI and Machine Learning",
-      "Customer Churn Prediction",
-      "Energy Utilities",
-      "Data-Driven Solutions",
-      "Customer Engagement"
+      "AI adoption",
+      "business strategy",
+      "industry leadership",
+      "cost optimization",
+      "future trends"
     ],
     "tone_analysis": "professional",
-    "target_audience": "Energy utility companies and professionals in the energy sector"
+    "target_audience": "business leaders and decision-makers in various industries"
   },
   "marketing_effectiveness_score": 100
 }

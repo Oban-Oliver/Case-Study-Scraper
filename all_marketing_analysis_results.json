@@ -1,103 +1,98 @@
 [
   {
-    "url": "https://datatonic.com/case-studies/marketing-analytics-asos/",
-    "word_count": 814,
-    "character_count": 5810,
-    "jargon_density": 5.528255528255528,
-    "process_clarity": 1.9656019656019657,
-    "vague_terms": 12.285012285012284,
+    "url": "https://tomoro.ai/insights/practical-examples-of-customised-rag-solutions",
+    "word_count": 1861,
+    "character_count": 11150,
+    "jargon_density": 2.686727565824825,
+    "process_clarity": 0.9134873723804406,
+    "vague_terms": 0.5373455131649651,
     "statistics_usage": 3,
-    "future_past_ratio": 0.16666666666666666,
-    "passive_voice_usage": 13.636363636363635,
+    "future_past_ratio": 0.125,
+    "passive_voice_usage": 11.235955056179774,
     "openai_analysis": {
       "readability_score": 6,
       "persuasiveness_score": 7,
       "credibility_score": 8,
       "engagement_score": 7,
-      "call_to_action_strength": 6,
-      "key_themes": [
-        "Data Centralization",
-        "Marketing Analytics",
-        "Personalized Customer Experience",
-        "Scalability",
-        "Decision-Making Empowerment"
-      ],
-      "tone_analysis": "professional",
-      "target_audience": "Marketing professionals and decision-makers in retail and e-commerce"
-    },
-    "marketing_effectiveness_score": 100
-  },
-  {
-    "url": "https://datatonic.com/case-studies/slashing-invoice-processing-costs-bigquery-docai-genai/",
-    "error": "\ud83d\udeab BOT RESTRICTION DETECTED: The website appears to be blocking automated access. Found 'captcha' in response.",
-    "status": "failed"
-  },
-  {
-    "url": "https://datatonic.com/case-studies/creating-a-powerful-streaming-analytics-platform-for-sky/",
-    "word_count": 680,
-    "character_count": 4782,
-    "jargon_density": 8.088235294117649,
-    "process_clarity": 1.1764705882352942,
-    "vague_terms": 10.294117647058824,
-    "statistics_usage": 6,
-    "future_past_ratio": 0.6,
-    "passive_voice_usage": 20.833333333333336,
-    "openai_analysis": {
-      "readability_score": 6,
-      "persuasiveness_score": 7,
-      "credibility_score": 8,
-      "engagement_score": 7,
-      "call_to_action_strength": 6,
-      "key_themes": [
-        "Streaming Analytics",
-        "Big Data",
-        "Customer Insights",
-        "Data Management",
-        "Partnerships"
-      ],
-      "tone_analysis": "professional",
-      "target_audience": "Business professionals in media and telecommunications, data engineers, and decision-makers in analytics"
-    },
-    "marketing_effectiveness_score": 100
-  },
-  {
-    "url": "https://datatonic.com/case-studies/analytics-platform-moneysupermarket/",
-    "word_count": 595,
-    "character_count": 4483,
-    "jargon_density": 33.61344537815126,
-    "process_clarity": 2.1848739495798317,
-    "vague_terms": 13.445378151260504,
-    "statistics_usage": 2,
-    "future_past_ratio": 0.5,
-    "passive_voice_usage": 10.526315789473683,
-    "openai_analysis": {
-      "readability_score": 6,
-      "persuasiveness_score": 7,
-      "credibility_score": 8,
-      "engagement_score": 6,
       "call_to_action_strength": 5,
       "key_themes": [
-        "Analytics Platform Development",
-        "Machine Learning Integration",
-        "Cloud Migration",
-        "Data Optimization",
-        "Customer Engagement"
+        "Retrieval Augmented Generation (RAG)",
+        "Data Challenges",
+        "Custom Solutions",
+        "Embedding Techniques",
+        "Contextual Summaries"
       ],
-      "tone_analysis": "professional",
-      "target_audience": "Business professionals in data analytics and technology sectors"
+      "tone_analysis": "technical",
+      "target_audience": "data scientists, AI developers, and technical professionals interested in RAG solutions"
     },
-    "marketing_effectiveness_score": 98.69336576735958
+    "marketing_effectiveness_score": 100
   },
   {
-    "url": "https://datatonic.com/case-studies/self-serve-analytics-asset-management-fintech/",
-    "word_count": 462,
-    "character_count": 3496,
-    "jargon_density": 8.658008658008658,
-    "process_clarity": 1.0822510822510822,
-    "vague_terms": 0.0,
+    "url": "https://tomoro.ai/insights/heuristics-for-agentic-system-design",
+    "word_count": 1451,
+    "character_count": 9684,
+    "jargon_density": 1.3783597518952446,
+    "process_clarity": 1.2405237767057202,
+    "vague_terms": 2.067539627842867,
     "statistics_usage": 1,
-    "future_past_ratio": 0.0,
-    "passive_voice_usage": 18.181818181818183,
+    "future_past_ratio": 1.0909090909090908,
+    "passive_voice_usage": 11.842105263157894,
+    "openai_analysis": {
+      "readability_score": 4,
+      "persuasiveness_score": 6,
+      "credibility_score": 8,
+      "engagement_score": 5,
+      "call_to_action_strength": 4,
+      "key_themes": [
+        "Agentic System Design",
+        "Router vs. Orchestrator Architectures",
+        "Decision-Making Processes",
+        "High-Risk Workflows",
+        "Natural Language Processing"
+      ],
+      "tone_analysis": "technical",
+      "target_audience": "software developers, system architects, and AI practitioners"
+    },
+    "marketing_effectiveness_score": 99.89663225163969
+  },
+  {
+    "url": "https://tomoro.ai/insights/why-all-the-fuss-about-mcp",
+    "word_count": 1541,
+    "character_count": 10346,
+    "jargon_density": 3.244646333549643,
+    "process_clarity": 0.8436080467229071,
+    "vague_terms": 5.840363400389357,
+    "statistics_usage": 0,
+    "future_past_ratio": 0.2,
+    "passive_voice_usage": 5.405405405405405,
+    "openai_analysis": {
+      "readability_score": 7,
+      "persuasiveness_score": 8,
+      "credibility_score": 9,
+      "engagement_score": 7,
+      "call_to_action_strength": 6,
+      "key_themes": [
+        "Model Context Protocol (MCP)",
+        "AI development",
+        "Large Language Models (LLMs)",
+        "Collaboration in technology",
+        "Context management"
+      ],
+      "tone_analysis": "professional",
+      "target_audience": "AI developers and industry professionals"
+    },
+    "marketing_effectiveness_score": 100
+  },
+  {
+    "url": "https://tomoro.ai/insights/bringing-deep-research-to-enterprise",
+    "word_count": 1394,
+    "character_count": 9050,
+    "jargon_density": 1.0760401721664274,
+    "process_clarity": 1.0043041606886656,
+    "vague_terms": 3.586800573888092,
+    "statistics_usage": 3,
+    "future_past_ratio": 0.5714285714285714,
+    "passive_voice_usage": 14.0625,
     "openai_analysis": {
       "readability_score": 6,
       "persuasiveness_score": 7,
@@ -105,14 +100,126 @@
       "engagement_score": 6,
       "call_to_action_strength": 5,
       "key_themes": [
-        "Self-Serve Analytics",
-        "Population Stability Index (PSI)",
-        "Data Science Efficiency",
-        "Fintech Solutions",
-        "Dynamic Analysis"
+        "AI Research",
+        "Enterprise Solutions",
+        "Data Integration",
+        "Competitive Advantage",
+        "User-Centric Tools"
       ],
       "tone_analysis": "professional",
-      "target_audience": "Financial services professionals and data scientists in fintech"
+      "target_audience": "Business professionals and decision-makers in industries such as pharmaceuticals, finance, and law"
+    },
+    "marketing_effectiveness_score": 100
+  },
+  {
+    "url": "https://tomoro.ai/insights/designing-ai-solutions-emerging-patterns-in-ai-experience-design",
+    "word_count": 5963,
+    "character_count": 37737,
+    "jargon_density": 1.5093073956062384,
+    "process_clarity": 1.14036558779138,
+    "vague_terms": 1.341606573872212,
+    "statistics_usage": 2,
+    "future_past_ratio": 0.7142857142857143,
+    "passive_voice_usage": 10.28368794326241,
+    "openai_analysis": {
+      "readability_score": 6,
+      "persuasiveness_score": 7,
+      "credibility_score": 8,
+      "engagement_score": 7,
+      "call_to_action_strength": 5,
+      "key_themes": [
+        "AI Experience Design",
+        "Human-AI Interaction",
+        "Emerging Design Patterns",
+        "User Research",
+        "Productivity Challenges"
+      ],
+      "tone_analysis": "professional",
+      "target_audience": "knowledge workers, AI developers, and technology enthusiasts"
+    },
+    "marketing_effectiveness_score": 100
+  },
+  {
+    "url": "https://tomoro.ai/insights/building-safe-chat-agents-at-100000s-messages-per-day-scale-for-high-risk-businesses",
+    "word_count": 1352,
+    "character_count": 8751,
+    "jargon_density": 2.5887573964497044,
+    "process_clarity": 1.4792899408284024,
+    "vague_terms": 2.9585798816568047,
+    "statistics_usage": 1,
+    "future_past_ratio": 0.7142857142857143,
+    "passive_voice_usage": 16.363636363636363,
+    "openai_analysis": {
+      "readability_score": 6,
+      "persuasiveness_score": 7,
+      "credibility_score": 8,
+      "engagement_score": 7,
+      "call_to_action_strength": 6,
+      "key_themes": [
+        "Safety in GenAI applications",
+        "Risks of LLMs",
+        "Layered classification methods",
+        "Child safety in chatbots",
+        "Brand reputation management"
+      ],
+      "tone_analysis": "technical-lite",
+      "target_audience": "Businesses in high-risk sectors, particularly those developing or using GenAI applications"
+    },
+    "marketing_effectiveness_score": 100
+  },
+  {
+    "url": "https://tomoro.ai/insights/retrieval-augmented-generation-in-2025",
+    "word_count": 2529,
+    "character_count": 15991,
+    "jargon_density": 5.5357848952155,
+    "process_clarity": 1.7398181099248715,
+    "vague_terms": 4.744958481613287,
+    "statistics_usage": 4,
+    "future_past_ratio": 0.6785714285714286,
+    "passive_voice_usage": 7.142857142857142,
+    "openai_analysis": {
+      "readability_score": 7,
+      "persuasiveness_score": 8,
+      "credibility_score": 9,
+      "engagement_score": 7,
+      "call_to_action_strength": 6,
+      "key_themes": [
+        "Data Quality",
+        "Retrieval-Augmented Generation (RAG)",
+        "AI Integration",
+        "Data Privacy",
+        "Business Success"
+      ],
+      "tone_analysis": "professional",
+      "target_audience": "Business professionals and decision-makers in data-driven industries"
+    },
+    "marketing_effectiveness_score": 100
+  },
+  {
+    "url": "https://tomoro.ai/insights/enterprise-ai-in-2025",
+    "word_count": 1378,
+    "character_count": 8634,
+    "jargon_density": 5.079825834542816,
+    "process_clarity": 1.0885341074020318,
+    "vague_terms": 2.9027576197387517,
+    "statistics_usage": 5,
+    "future_past_ratio": 0.8571428571428571,
+    "passive_voice_usage": 6.41025641025641,
+    "openai_analysis": {
+      "readability_score": 6,
+      "persuasiveness_score": 7,
+      "credibility_score": 8,
+      "engagement_score": 7,
+      "call_to_action_strength": 6,
+      "key_themes": [
+        "AI adoption",
+        "business strategy",
+        "industry leadership",
+        "cost optimization",
+        "future trends"
+      ],
+      "tone_analysis": "professional",
+      "target_audience": "business leaders and decision-makers in various industries"
     },
     "marketing_effectiveness_score": 100
   }

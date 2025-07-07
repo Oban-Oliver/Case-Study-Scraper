@@ -1,28 +1,28 @@
 {
-  "url": "https://datatonic.com/case-studies/marketing-analytics-asos/",
-  "word_count": 814,
-  "character_count": 5810,
-  "jargon_density": 5.528255528255528,
-  "process_clarity": 1.9656019656019657,
-  "vague_terms": 12.285012285012284,
+  "url": "https://tomoro.ai/insights/practical-examples-of-customised-rag-solutions",
+  "word_count": 1861,
+  "character_count": 11150,
+  "jargon_density": 2.686727565824825,
+  "process_clarity": 0.9134873723804406,
+  "vague_terms": 0.5373455131649651,
   "statistics_usage": 3,
-  "future_past_ratio": 0.16666666666666666,
-  "passive_voice_usage": 13.636363636363635,
+  "future_past_ratio": 0.125,
+  "passive_voice_usage": 11.235955056179774,
   "openai_analysis": {
     "readability_score": 6,
     "persuasiveness_score": 7,
     "credibility_score": 8,
     "engagement_score": 7,
-    "call_to_action_strength": 6,
+    "call_to_action_strength": 5,
     "key_themes": [
-      "Data Centralization",
-      "Marketing Analytics",
-      "Personalized Customer Experience",
-      "Scalability",
-      "Decision-Making Empowerment"
+      "Retrieval Augmented Generation (RAG)",
+      "Data Challenges",
+      "Custom Solutions",
+      "Embedding Techniques",
+      "Contextual Summaries"
     ],
-    "tone_analysis": "professional",
-    "target_audience": "Marketing professionals and decision-makers in retail and e-commerce"
+    "tone_analysis": "technical",
+    "target_audience": "data scientists, AI developers, and technical professionals interested in RAG solutions"
   },
   "marketing_effectiveness_score": 100
 }

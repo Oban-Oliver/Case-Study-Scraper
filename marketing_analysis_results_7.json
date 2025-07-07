@@ -1,28 +1,28 @@
 {
-  "url": "https://www.mesh-ai.com/blog-posts/transforming-energy-insights-strong-data-foundations-reach-net-zero",
-  "word_count": 1519,
-  "character_count": 11858,
-  "jargon_density": 1.6458196181698486,
-  "process_clarity": 1.7774851876234363,
-  "vague_terms": 5.924950625411455,
-  "statistics_usage": 8,
-  "future_past_ratio": 0.8,
-  "passive_voice_usage": 15.151515151515152,
+  "url": "https://tomoro.ai/insights/retrieval-augmented-generation-in-2025",
+  "word_count": 2529,
+  "character_count": 15991,
+  "jargon_density": 5.5357848952155,
+  "process_clarity": 1.7398181099248715,
+  "vague_terms": 4.744958481613287,
+  "statistics_usage": 4,
+  "future_past_ratio": 0.6785714285714286,
+  "passive_voice_usage": 7.142857142857142,
   "openai_analysis": {
-    "readability_score": 6,
-    "persuasiveness_score": 7,
-    "credibility_score": 8,
+    "readability_score": 7,
+    "persuasiveness_score": 8,
+    "credibility_score": 9,
     "engagement_score": 7,
     "call_to_action_strength": 6,
     "key_themes": [
-      "Data Strategy",
-      "Net Zero Goals",
-      "Energy Market Volatility",
-      "Cost Efficiency",
-      "Innovation in Energy"
+      "Data Quality",
+      "Retrieval-Augmented Generation (RAG)",
+      "AI Integration",
+      "Data Privacy",
+      "Business Success"
     ],
     "tone_analysis": "professional",
-    "target_audience": "Energy industry professionals, data analysts, and decision-makers in financial services and utilities"
+    "target_audience": "Business professionals and decision-makers in data-driven industries"
   },
   "marketing_effectiveness_score": 100
 }

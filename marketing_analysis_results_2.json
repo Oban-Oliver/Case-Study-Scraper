@@ -1,28 +1,28 @@
 {
-  "url": "https://www.satalia.com/case-study/workforce-optimisation-for-leading-accountancy-firm/",
-  "word_count": 443,
-  "character_count": 2748,
-  "jargon_density": 0.0,
-  "process_clarity": 1.580135440180587,
-  "vague_terms": 2.257336343115124,
-  "statistics_usage": 4,
-  "future_past_ratio": 1.25,
-  "passive_voice_usage": 0.0,
+  "url": "https://tomoro.ai/insights/heuristics-for-agentic-system-design",
+  "word_count": 1451,
+  "character_count": 9684,
+  "jargon_density": 1.3783597518952446,
+  "process_clarity": 1.2405237767057202,
+  "vague_terms": 2.067539627842867,
+  "statistics_usage": 1,
+  "future_past_ratio": 1.0909090909090908,
+  "passive_voice_usage": 11.842105263157894,
   "openai_analysis": {
-    "readability_score": 6,
-    "persuasiveness_score": 7,
+    "readability_score": 4,
+    "persuasiveness_score": 6,
     "credibility_score": 8,
-    "engagement_score": 6,
-    "call_to_action_strength": 5,
+    "engagement_score": 5,
+    "call_to_action_strength": 4,
     "key_themes": [
-      "Workforce Optimization",
-      "Artificial Intelligence",
-      "Efficiency Improvement",
-      "Cost Reduction",
-      "Client Satisfaction"
+      "Agentic System Design",
+      "Router vs. Orchestrator Architectures",
+      "Decision-Making Processes",
+      "High-Risk Workflows",
+      "Natural Language Processing"
     ],
-    "tone_analysis": "professional",
-    "target_audience": "Business leaders and decision-makers in accountancy and related sectors"
+    "tone_analysis": "technical",
+    "target_audience": "software developers, system architects, and AI practitioners"
   },
-  "marketing_effectiveness_score": 100
+  "marketing_effectiveness_score": 99.89663225163969
 }
