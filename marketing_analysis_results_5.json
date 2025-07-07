@@ -1,13 +1,13 @@
 {
-  "url": "https://www.satalia.com/case-study/simulation-of-last-mile-capability-for-large-supermarket-chain/",
-  "word_count": 494,
-  "character_count": 3145,
-  "jargon_density": 1.0121457489878543,
-  "process_clarity": 1.417004048582996,
-  "vague_terms": 2.0242914979757085,
-  "statistics_usage": 0,
-  "future_past_ratio": 0.5,
-  "passive_voice_usage": 5.0,
+  "url": "https://datatonic.com/case-studies/self-serve-analytics-asset-management-fintech/",
+  "word_count": 462,
+  "character_count": 3496,
+  "jargon_density": 8.658008658008658,
+  "process_clarity": 1.0822510822510822,
+  "vague_terms": 0.0,
+  "statistics_usage": 1,
+  "future_past_ratio": 0.0,
+  "passive_voice_usage": 18.181818181818183,
   "openai_analysis": {
     "readability_score": 6,
     "persuasiveness_score": 7,
@@ -15,14 +15,14 @@
     "engagement_score": 6,
     "call_to_action_strength": 5,
     "key_themes": [
-      "AI for logistics",
-      "last mile delivery",
-      "optimisation algorithms",
-      "customer experience",
-      "case studies"
+      "Self-Serve Analytics",
+      "Population Stability Index (PSI)",
+      "Data Science Efficiency",
+      "Fintech Solutions",
+      "Dynamic Analysis"
     ],
     "tone_analysis": "professional",
-    "target_audience": "businesses in the retail and logistics sectors"
+    "target_audience": "Financial services professionals and data scientists in fintech"
   },
   "marketing_effectiveness_score": 100
 }

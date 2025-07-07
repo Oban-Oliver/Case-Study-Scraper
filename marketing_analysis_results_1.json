@@ -1,13 +1,13 @@
 {
-  "url": "https://www.mesh-ai.com/blog-posts/modern-data-capabilities-to-solve-short-term-challenges-and-power-future-innovation",
-  "word_count": 1206,
-  "character_count": 10423,
-  "jargon_density": 2.0729684908789388,
-  "process_clarity": 1.4096185737976783,
-  "vague_terms": 14.096185737976782,
-  "statistics_usage": 1,
-  "future_past_ratio": 4.166666666666667,
-  "passive_voice_usage": 13.725490196078432,
+  "url": "https://datatonic.com/case-studies/marketing-analytics-asos/",
+  "word_count": 814,
+  "character_count": 5810,
+  "jargon_density": 5.528255528255528,
+  "process_clarity": 1.9656019656019657,
+  "vague_terms": 12.285012285012284,
+  "statistics_usage": 3,
+  "future_past_ratio": 0.16666666666666666,
+  "passive_voice_usage": 13.636363636363635,
   "openai_analysis": {
     "readability_score": 6,
     "persuasiveness_score": 7,
@@ -15,14 +15,14 @@
     "engagement_score": 7,
     "call_to_action_strength": 6,
     "key_themes": [
-      "Data-driven transformation",
-      "Unified data strategy",
-      "Cultural transformation",
-      "Operational efficiency",
-      "Future-ready design"
+      "Data Centralization",
+      "Marketing Analytics",
+      "Personalized Customer Experience",
+      "Scalability",
+      "Decision-Making Empowerment"
     ],
     "tone_analysis": "professional",
-    "target_audience": "Insurance industry professionals and decision-makers"
+    "target_audience": "Marketing professionals and decision-makers in retail and e-commerce"
   },
   "marketing_effectiveness_score": 100
 }

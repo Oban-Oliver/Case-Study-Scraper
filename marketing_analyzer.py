@@ -450,12 +450,11 @@ def main():
     
     # Test URLs
     test_urls = [
-        "https://www.satalia.com/case-study/ai-strategy-for-hedge-fund/",
-        "https://www.satalia.com/case-study/workforce-optimisation-for-leading-accountancy-firm/",
-        "https://www.satalia.com/case-study/customer-journey-mapping-for-uk-telco/",
-        "https://www.satalia.com/case-study/workforce-optimisation-for-dfs/",
-        "https://www.satalia.com/case-study/simulation-of-last-mile-capability-for-large-supermarket-chain/",
-        "https://www.satalia.com/case-study/route-optimisation-for-tesco/"
+        "https://datatonic.com/case-studies/marketing-analytics-asos/",
+        "https://datatonic.com/case-studies/slashing-invoice-processing-costs-bigquery-docai-genai/",
+        "https://datatonic.com/case-studies/creating-a-powerful-streaming-analytics-platform-for-sky/",
+        "https://datatonic.com/case-studies/analytics-platform-moneysupermarket/",
+        "https://datatonic.com/case-studies/self-serve-analytics-asset-management-fintech/"
     ]
     
     analyzer = MarketingAnalyzer(api_key)

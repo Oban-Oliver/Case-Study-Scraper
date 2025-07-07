@@ -1,13 +1,13 @@
 {
-  "url": "https://www.satalia.com/case-study/workforce-optimisation-for-dfs/",
-  "word_count": 438,
-  "character_count": 2732,
-  "jargon_density": 1.141552511415525,
-  "process_clarity": 1.82648401826484,
-  "vague_terms": 0.0,
-  "statistics_usage": 4,
-  "future_past_ratio": 2.0,
-  "passive_voice_usage": 0.0,
+  "url": "https://datatonic.com/case-studies/analytics-platform-moneysupermarket/",
+  "word_count": 595,
+  "character_count": 4483,
+  "jargon_density": 33.61344537815126,
+  "process_clarity": 2.1848739495798317,
+  "vague_terms": 13.445378151260504,
+  "statistics_usage": 2,
+  "future_past_ratio": 0.5,
+  "passive_voice_usage": 10.526315789473683,
   "openai_analysis": {
     "readability_score": 6,
     "persuasiveness_score": 7,
@@ -15,14 +15,14 @@
     "engagement_score": 6,
     "call_to_action_strength": 5,
     "key_themes": [
-      "Workforce Optimization",
-      "AI Solutions",
-      "Demand Forecasting",
-      "Customer Experience",
-      "Revenue Growth"
+      "Analytics Platform Development",
+      "Machine Learning Integration",
+      "Cloud Migration",
+      "Data Optimization",
+      "Customer Engagement"
     ],
     "tone_analysis": "professional",
-    "target_audience": "Businesses seeking AI solutions for workforce and operational efficiency"
+    "target_audience": "Business professionals in data analytics and technology sectors"
   },
-  "marketing_effectiveness_score": 100
+  "marketing_effectiveness_score": 98.69336576735958
 }

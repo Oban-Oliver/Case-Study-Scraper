@@ -1,28 +1,28 @@
 {
-  "url": "https://www.satalia.com/case-study/customer-journey-mapping-for-uk-telco/",
-  "word_count": 448,
-  "character_count": 2848,
-  "jargon_density": 2.232142857142857,
-  "process_clarity": 2.0089285714285716,
-  "vague_terms": 0.0,
-  "statistics_usage": 2,
-  "future_past_ratio": 1.4,
-  "passive_voice_usage": 0.0,
+  "url": "https://datatonic.com/case-studies/creating-a-powerful-streaming-analytics-platform-for-sky/",
+  "word_count": 680,
+  "character_count": 4782,
+  "jargon_density": 8.088235294117649,
+  "process_clarity": 1.1764705882352942,
+  "vague_terms": 10.294117647058824,
+  "statistics_usage": 6,
+  "future_past_ratio": 0.6,
+  "passive_voice_usage": 20.833333333333336,
   "openai_analysis": {
     "readability_score": 6,
     "persuasiveness_score": 7,
     "credibility_score": 8,
-    "engagement_score": 6,
-    "call_to_action_strength": 5,
+    "engagement_score": 7,
+    "call_to_action_strength": 6,
     "key_themes": [
-      "Customer Journey Mapping",
-      "AI Solutions",
-      "Efficiency Improvement",
-      "Cost Reduction",
-      "Investment Return"
+      "Streaming Analytics",
+      "Big Data",
+      "Customer Insights",
+      "Data Management",
+      "Partnerships"
     ],
     "tone_analysis": "professional",
-    "target_audience": "Business executives and decision-makers in telecommunications and related industries"
+    "target_audience": "Business professionals in media and telecommunications, data engineers, and decision-makers in analytics"
   },
   "marketing_effectiveness_score": 100
 }
