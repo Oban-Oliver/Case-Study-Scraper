@@ -336,21 +336,55 @@ def main():
         print("Example: export OPENAI_API_KEY='your-api-key-here'")
         return
     
-    # Test URL
-    test_url = "https://tomoro.ai/insights/practical-examples-of-customised-rag-solutions"
+    # Test URLs
+    test_urls = [
+        "https://indicium.ai/ai-data-engineering/ai-data-platform-optimization/",
+        "https://indicium.ai/ai-data-advisory/ai-data-strategy/",
+        "https://indicium.ai/partners/databricks/"
+    ]
     
-    try:
-        analyzer = MarketingAnalyzer(api_key)
-        metrics = analyzer.analyze_url(test_url)
-        analyzer.print_analysis(metrics)
+    analyzer = MarketingAnalyzer(api_key)
+    all_results = []
+    
+    for i, url in enumerate(test_urls, 1):
+        print(f"\n{'='*80}")
+        print(f"ANALYZING URL {i}/{len(test_urls)}")
+        print(f"{'='*80}")
         
-        # Save results to JSON file
-        with open('marketing_analysis_results.json', 'w') as f:
-            json.dump(metrics, f, indent=2)
-        print(f"\nResults saved to: marketing_analysis_results.json")
-        
-    except Exception as e:
-        print(f"Error: {str(e)}")
+        try:
+            metrics = analyzer.analyze_url(url)
+            analyzer.print_analysis(metrics)
+            all_results.append(metrics)
+            
+            # Save individual results
+            filename = f'marketing_analysis_results_{i}.json'
+            with open(filename, 'w') as f:
+                json.dump(metrics, f, indent=2)
+            print(f"Results saved to: {filename}")
+            
+        except Exception as e:
+            print(f"❌ ERROR analyzing {url}")
+            print(f"Error details: {str(e)}")
+            all_results.append({
+                "url": url,
+                "error": str(e),
+                "status": "failed"
+            })
+    
+    # Save combined results
+    print(f"\n{'='*80}")
+    print("SUMMARY OF ALL ANALYSES")
+    print(f"{'='*80}")
+    
+    with open('all_marketing_analysis_results.json', 'w') as f:
+        json.dump(all_results, f, indent=2)
+    
+    successful = sum(1 for r in all_results if "error" not in r)
+    failed = len(all_results) - successful
+    
+    print(f"✅ Successfully analyzed: {successful}/{len(test_urls)} URLs")
+    print(f"❌ Failed to analyze: {failed}/{len(test_urls)} URLs")
+    print(f"📁 Combined results saved to: all_marketing_analysis_results.json")
 
 
 if __name__ == "__main__":
