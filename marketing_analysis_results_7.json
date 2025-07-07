@@ -1,0 +1,28 @@
+{
+  "url": "https://www.mesh-ai.com/blog-posts/transforming-energy-insights-strong-data-foundations-reach-net-zero",
+  "word_count": 1519,
+  "character_count": 11858,
+  "jargon_density": 1.6458196181698486,
+  "process_clarity": 1.7774851876234363,
+  "vague_terms": 5.924950625411455,
+  "statistics_usage": 8,
+  "future_past_ratio": 0.8,
+  "passive_voice_usage": 15.151515151515152,
+  "openai_analysis": {
+    "readability_score": 6,
+    "persuasiveness_score": 7,
+    "credibility_score": 8,
+    "engagement_score": 7,
+    "call_to_action_strength": 6,
+    "key_themes": [
+      "Data Strategy",
+      "Net Zero Goals",
+      "Energy Market Volatility",
+      "Cost Efficiency",
+      "Innovation in Energy"
+    ],
+    "tone_analysis": "professional",
+    "target_audience": "Energy industry professionals, data analysts, and decision-makers in financial services and utilities"
+  },
+  "marketing_effectiveness_score": 100
+}

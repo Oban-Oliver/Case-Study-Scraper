@@ -1,0 +1,28 @@
+{
+  "url": "https://www.mesh-ai.com/blog-posts/reimagining-commercial-banking-increasing-agility-through-a-cohesive-ai-strategy",
+  "word_count": 1441,
+  "character_count": 11726,
+  "jargon_density": 2.081887578070784,
+  "process_clarity": 1.040943789035392,
+  "vague_terms": 8.327550312283137,
+  "statistics_usage": 1,
+  "future_past_ratio": 1.1111111111111112,
+  "passive_voice_usage": 18.181818181818183,
+  "openai_analysis": {
+    "readability_score": 5,
+    "persuasiveness_score": 7,
+    "credibility_score": 8,
+    "engagement_score": 6,
+    "call_to_action_strength": 7,
+    "key_themes": [
+      "AI Integration",
+      "Operational Agility",
+      "Cost Control",
+      "Innovation in Banking",
+      "Strategic Collaboration"
+    ],
+    "tone_analysis": "professional",
+    "target_audience": "Financial services professionals and decision-makers in commercial banking"
+  },
+  "marketing_effectiveness_score": 100
+}

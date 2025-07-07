@@ -1,0 +1,28 @@
+{
+  "url": "https://www.mesh-ai.com/blog-posts/harnessing-the-power-of-ai-machine-learning-to-drive-value-for-energy-utilities",
+  "word_count": 1361,
+  "character_count": 11010,
+  "jargon_density": 5.8780308596620126,
+  "process_clarity": 1.763409257898604,
+  "vague_terms": 5.8780308596620126,
+  "statistics_usage": 0,
+  "future_past_ratio": 1.3333333333333333,
+  "passive_voice_usage": 21.153846153846153,
+  "openai_analysis": {
+    "readability_score": 6,
+    "persuasiveness_score": 7,
+    "credibility_score": 8,
+    "engagement_score": 7,
+    "call_to_action_strength": 6,
+    "key_themes": [
+      "AI and Machine Learning",
+      "Customer Churn Prediction",
+      "Energy Utilities",
+      "Data-Driven Solutions",
+      "Customer Engagement"
+    ],
+    "tone_analysis": "professional",
+    "target_audience": "Energy utility companies and professionals in the energy sector"
+  },
+  "marketing_effectiveness_score": 100
+}

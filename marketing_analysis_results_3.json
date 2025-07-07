@@ -1,28 +1,28 @@
 {
-  "url": "https://www.mindfoundry.ai/resources/case-study/large-loss",
-  "word_count": 832,
-  "character_count": 5476,
-  "jargon_density": 7.8125,
-  "process_clarity": 1.201923076923077,
-  "vague_terms": 4.807692307692308,
+  "url": "https://www.mesh-ai.com/blog-posts/reimagining-an-energy-enterprise-to-mitigate-reporting-fines-by-leveraging-azures-data-governance-solutions",
+  "word_count": 1305,
+  "character_count": 10793,
+  "jargon_density": 3.0651340996168583,
+  "process_clarity": 1.2260536398467434,
+  "vague_terms": 2.2988505747126435,
   "statistics_usage": 0,
-  "future_past_ratio": 0.4444444444444444,
-  "passive_voice_usage": 15.789473684210526,
+  "future_past_ratio": 0.16666666666666666,
+  "passive_voice_usage": 16.94915254237288,
   "openai_analysis": {
-    "readability_score": 6,
+    "readability_score": 5,
     "persuasiveness_score": 7,
     "credibility_score": 8,
     "engagement_score": 6,
     "call_to_action_strength": 5,
     "key_themes": [
-      "Predictive Analytics",
-      "Insurance Risk Management",
-      "Machine Learning Solutions",
-      "Cost Reduction",
-      "Driver Behavior Analysis"
+      "Data Governance",
+      "Energy Sector Transformation",
+      "Regulatory Compliance",
+      "Microsoft Azure Solutions",
+      "Data-Driven Decision Making"
     ],
     "tone_analysis": "professional",
-    "target_audience": "Insurance industry professionals and decision-makers"
+    "target_audience": "Energy sector professionals and decision-makers"
   },
   "marketing_effectiveness_score": 100
 }

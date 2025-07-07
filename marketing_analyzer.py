@@ -450,11 +450,15 @@ def main():
     
     # Test URLs
     test_urls = [
-        "https://www.mindfoundry.ai/resources/case-study/reducing-the-cost-of-fraud-claims",
-        "https://www.mindfoundry.ai/resources/case-study/enhanced-pricing",
-        "https://www.mindfoundry.ai/resources/case-study/large-loss",
-        "https://www.mindfoundry.ai/resources/case-study/driving-behaviour",
-        "https://www.mindfoundry.ai/resources/case-study/compressing-data"
+        "https://www.mesh-ai.com/blog-posts/modern-data-capabilities-to-solve-short-term-challenges-and-power-future-innovation",
+        "https://www.mesh-ai.com/blog-posts/mesh-ai-and-national-grid-ventures-leverage-ai-to-protect-critical-underwater-infrastructure",
+        "https://www.mesh-ai.com/blog-posts/reimagining-an-energy-enterprise-to-mitigate-reporting-fines-by-leveraging-azures-data-governance-solutions",
+        "https://www.mesh-ai.com/blog-posts/reimagining-travelex-unlocking-millions-in-revenue-with-cloud-data-platform-transformation",
+        "https://www.mesh-ai.com/blog-posts/accelerating-net-zero-at-national-grid-electricity-transmission-with-data-ai",
+        "https://www.mesh-ai.com/blog-posts/reimagining-commercial-banking-increasing-agility-through-a-cohesive-ai-strategy",
+        "https://www.mesh-ai.com/blog-posts/transforming-energy-insights-strong-data-foundations-reach-net-zero",
+        "https://www.mesh-ai.com/blog-posts/harnessing-the-power-of-ai-machine-learning-to-drive-value-for-energy-utilities",
+        "https://www.mesh-ai.com/blog-posts/mesh-ai-partners-with-ds-smith-generative-ai-reimagine-packaging"
     ]
     
     analyzer = MarketingAnalyzer(api_key)

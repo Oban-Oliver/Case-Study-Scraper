@@ -1,42 +1,14 @@
 [
   {
-    "url": "https://www.mindfoundry.ai/resources/case-study/reducing-the-cost-of-fraud-claims",
-    "word_count": 958,
-    "character_count": 6215,
-    "jargon_density": 7.828810020876826,
-    "process_clarity": 1.3569937369519833,
-    "vague_terms": 2.08768267223382,
-    "statistics_usage": 4,
-    "future_past_ratio": 0.1111111111111111,
-    "passive_voice_usage": 14.285714285714285,
-    "openai_analysis": {
-      "readability_score": 5,
-      "persuasiveness_score": 7,
-      "credibility_score": 8,
-      "engagement_score": 6,
-      "call_to_action_strength": 5,
-      "key_themes": [
-        "Fraud Detection",
-        "AI Technology",
-        "Insurance Industry",
-        "Cost Reduction",
-        "Data Integration"
-      ],
-      "tone_analysis": "professional",
-      "target_audience": "Insurance professionals and decision-makers in fraud prevention"
-    },
-    "marketing_effectiveness_score": 100
-  },
-  {
-    "url": "https://www.mindfoundry.ai/resources/case-study/enhanced-pricing",
-    "word_count": 616,
-    "character_count": 4043,
-    "jargon_density": 8.116883116883116,
-    "process_clarity": 1.2987012987012987,
-    "vague_terms": 0.0,
-    "statistics_usage": 0,
-    "future_past_ratio": 0.75,
-    "passive_voice_usage": 0.0,
+    "url": "https://www.mesh-ai.com/blog-posts/modern-data-capabilities-to-solve-short-term-challenges-and-power-future-innovation",
+    "word_count": 1206,
+    "character_count": 10423,
+    "jargon_density": 2.0729684908789388,
+    "process_clarity": 1.4096185737976783,
+    "vague_terms": 14.096185737976782,
+    "statistics_usage": 1,
+    "future_past_ratio": 4.166666666666667,
+    "passive_voice_usage": 13.725490196078432,
     "openai_analysis": {
       "readability_score": 6,
       "persuasiveness_score": 7,
@@ -44,11 +16,11 @@
       "engagement_score": 7,
       "call_to_action_strength": 6,
       "key_themes": [
-        "AI in pricing models",
-        "Data integration",
-        "Customer retention",
-        "Market competitiveness",
-        "Risk assessment"
+        "Data-driven transformation",
+        "Unified data strategy",
+        "Cultural transformation",
+        "Operational efficiency",
+        "Future-ready design"
       ],
       "tone_analysis": "professional",
       "target_audience": "Insurance industry professionals and decision-makers"
@@ -56,86 +28,226 @@
     "marketing_effectiveness_score": 100
   },
   {
-    "url": "https://www.mindfoundry.ai/resources/case-study/large-loss",
-    "word_count": 832,
-    "character_count": 5476,
-    "jargon_density": 7.8125,
-    "process_clarity": 1.201923076923077,
-    "vague_terms": 4.807692307692308,
+    "url": "https://www.mesh-ai.com/blog-posts/mesh-ai-and-national-grid-ventures-leverage-ai-to-protect-critical-underwater-infrastructure",
+    "word_count": 993,
+    "character_count": 8717,
+    "jargon_density": 2.014098690835851,
+    "process_clarity": 1.3091641490433032,
+    "vague_terms": 4.028197381671702,
+    "statistics_usage": 5,
+    "future_past_ratio": 0.8333333333333334,
+    "passive_voice_usage": 24.444444444444443,
+    "openai_analysis": {
+      "readability_score": 6,
+      "persuasiveness_score": 8,
+      "credibility_score": 9,
+      "engagement_score": 7,
+      "call_to_action_strength": 5,
+      "key_themes": [
+        "AI in infrastructure monitoring",
+        "Environmental sustainability",
+        "Risk management",
+        "Technological innovation",
+        "Collaboration between companies"
+      ],
+      "tone_analysis": "professional",
+      "target_audience": "Industry professionals in energy and utilities, technology stakeholders, and environmental advocates"
+    },
+    "marketing_effectiveness_score": 100
+  },
+  {
+    "url": "https://www.mesh-ai.com/blog-posts/reimagining-an-energy-enterprise-to-mitigate-reporting-fines-by-leveraging-azures-data-governance-solutions",
+    "word_count": 1305,
+    "character_count": 10793,
+    "jargon_density": 3.0651340996168583,
+    "process_clarity": 1.2260536398467434,
+    "vague_terms": 2.2988505747126435,
     "statistics_usage": 0,
-    "future_past_ratio": 0.4444444444444444,
-    "passive_voice_usage": 15.789473684210526,
+    "future_past_ratio": 0.16666666666666666,
+    "passive_voice_usage": 16.94915254237288,
     "openai_analysis": {
-      "readability_score": 6,
+      "readability_score": 5,
       "persuasiveness_score": 7,
       "credibility_score": 8,
       "engagement_score": 6,
       "call_to_action_strength": 5,
       "key_themes": [
-        "Predictive Analytics",
-        "Insurance Risk Management",
-        "Machine Learning Solutions",
-        "Cost Reduction",
-        "Driver Behavior Analysis"
+        "Data Governance",
+        "Energy Sector Transformation",
+        "Regulatory Compliance",
+        "Microsoft Azure Solutions",
+        "Data-Driven Decision Making"
       ],
       "tone_analysis": "professional",
-      "target_audience": "Insurance industry professionals and decision-makers"
+      "target_audience": "Energy sector professionals and decision-makers"
     },
     "marketing_effectiveness_score": 100
   },
   {
-    "url": "https://www.mindfoundry.ai/resources/case-study/driving-behaviour",
-    "word_count": 795,
-    "character_count": 5203,
-    "jargon_density": 3.7735849056603774,
-    "process_clarity": 1.257861635220126,
-    "vague_terms": 1.2578616352201257,
-    "statistics_usage": 3,
-    "future_past_ratio": 0.2,
-    "passive_voice_usage": 10.81081081081081,
+    "url": "https://www.mesh-ai.com/blog-posts/reimagining-travelex-unlocking-millions-in-revenue-with-cloud-data-platform-transformation",
+    "word_count": 1445,
+    "character_count": 11842,
+    "jargon_density": 1.7301038062283738,
+    "process_clarity": 0.7612456747404844,
+    "vague_terms": 3.4602076124567476,
+    "statistics_usage": 7,
+    "future_past_ratio": 0.42857142857142855,
+    "passive_voice_usage": 16.94915254237288,
     "openai_analysis": {
       "readability_score": 6,
       "persuasiveness_score": 7,
       "credibility_score": 8,
-      "engagement_score": 6,
+      "engagement_score": 7,
       "call_to_action_strength": 5,
       "key_themes": [
-        "Driving Behaviour Analysis",
-        "Risk Reduction",
-        "Telematics Data Utilization",
-        "Insurance Innovation",
-        "AI and Machine Learning"
+        "Data Transformation",
+        "Customer-Centric Model",
+        "Revenue Growth",
+        "Pandemic Recovery",
+        "Cloud Technology"
       ],
       "tone_analysis": "professional",
-      "target_audience": "Insurance professionals and stakeholders in the automotive and telematics industries"
+      "target_audience": "Business leaders and decision-makers in the financial services and technology sectors"
     },
     "marketing_effectiveness_score": 100
   },
   {
-    "url": "https://www.mindfoundry.ai/resources/case-study/compressing-data",
-    "word_count": 529,
-    "character_count": 3560,
-    "jargon_density": 9.45179584120983,
-    "process_clarity": 2.2684310018903595,
-    "vague_terms": 1.890359168241966,
+    "url": "https://www.mesh-ai.com/blog-posts/accelerating-net-zero-at-national-grid-electricity-transmission-with-data-ai",
+    "word_count": 1609,
+    "character_count": 12527,
+    "jargon_density": 2.175264139216905,
+    "process_clarity": 1.6159105034182724,
+    "vague_terms": 4.35052827843381,
     "statistics_usage": 1,
-    "future_past_ratio": 0.0,
-    "passive_voice_usage": 11.11111111111111,
+    "future_past_ratio": 1.1428571428571428,
+    "passive_voice_usage": 15.873015873015872,
     "openai_analysis": {
       "readability_score": 6,
       "persuasiveness_score": 7,
       "credibility_score": 8,
-      "engagement_score": 6,
-      "call_to_action_strength": 5,
+      "engagement_score": 7,
+      "call_to_action_strength": 6,
       "key_themes": [
-        "Data Compression",
-        "Real-time Processing",
-        "Intelligent Sampling",
-        "Resource Constraints",
-        "Industrial Applications"
+        "Net Zero Transition",
+        "Data Modernization",
+        "AI Integration",
+        "Operational Efficiency",
+        "Sustainable Energy Solutions"
       ],
       "tone_analysis": "professional",
-      "target_audience": "Industry professionals in technology and data management sectors"
+      "target_audience": "Energy and utilities professionals, decision-makers in sustainability, technology and data analysts"
+    },
+    "marketing_effectiveness_score": 100
+  },
+  {
+    "url": "https://www.mesh-ai.com/blog-posts/reimagining-commercial-banking-increasing-agility-through-a-cohesive-ai-strategy",
+    "word_count": 1441,
+    "character_count": 11726,
+    "jargon_density": 2.081887578070784,
+    "process_clarity": 1.040943789035392,
+    "vague_terms": 8.327550312283137,
+    "statistics_usage": 1,
+    "future_past_ratio": 1.1111111111111112,
+    "passive_voice_usage": 18.181818181818183,
+    "openai_analysis": {
+      "readability_score": 5,
+      "persuasiveness_score": 7,
+      "credibility_score": 8,
+      "engagement_score": 6,
+      "call_to_action_strength": 7,
+      "key_themes": [
+        "AI Integration",
+        "Operational Agility",
+        "Cost Control",
+        "Innovation in Banking",
+        "Strategic Collaboration"
+      ],
+      "tone_analysis": "professional",
+      "target_audience": "Financial services professionals and decision-makers in commercial banking"
+    },
+    "marketing_effectiveness_score": 100
+  },
+  {
+    "url": "https://www.mesh-ai.com/blog-posts/transforming-energy-insights-strong-data-foundations-reach-net-zero",
+    "word_count": 1519,
+    "character_count": 11858,
+    "jargon_density": 1.6458196181698486,
+    "process_clarity": 1.7774851876234363,
+    "vague_terms": 5.924950625411455,
+    "statistics_usage": 8,
+    "future_past_ratio": 0.8,
+    "passive_voice_usage": 15.151515151515152,
+    "openai_analysis": {
+      "readability_score": 6,
+      "persuasiveness_score": 7,
+      "credibility_score": 8,
+      "engagement_score": 7,
+      "call_to_action_strength": 6,
+      "key_themes": [
+        "Data Strategy",
+        "Net Zero Goals",
+        "Energy Market Volatility",
+        "Cost Efficiency",
+        "Innovation in Energy"
+      ],
+      "tone_analysis": "professional",
+      "target_audience": "Energy industry professionals, data analysts, and decision-makers in financial services and utilities"
+    },
+    "marketing_effectiveness_score": 100
+  },
+  {
+    "url": "https://www.mesh-ai.com/blog-posts/harnessing-the-power-of-ai-machine-learning-to-drive-value-for-energy-utilities",
+    "word_count": 1361,
+    "character_count": 11010,
+    "jargon_density": 5.8780308596620126,
+    "process_clarity": 1.763409257898604,
+    "vague_terms": 5.8780308596620126,
+    "statistics_usage": 0,
+    "future_past_ratio": 1.3333333333333333,
+    "passive_voice_usage": 21.153846153846153,
+    "openai_analysis": {
+      "readability_score": 6,
+      "persuasiveness_score": 7,
+      "credibility_score": 8,
+      "engagement_score": 7,
+      "call_to_action_strength": 6,
+      "key_themes": [
+        "AI and Machine Learning",
+        "Customer Churn Prediction",
+        "Energy Utilities",
+        "Data-Driven Solutions",
+        "Customer Engagement"
+      ],
+      "tone_analysis": "professional",
+      "target_audience": "Energy utility companies and professionals in the energy sector"
+    },
+    "marketing_effectiveness_score": 100
+  },
+  {
+    "url": "https://www.mesh-ai.com/blog-posts/mesh-ai-partners-with-ds-smith-generative-ai-reimagine-packaging",
+    "word_count": 816,
+    "character_count": 7507,
+    "jargon_density": 1.2254901960784315,
+    "process_clarity": 1.5931372549019607,
+    "vague_terms": 6.127450980392156,
+    "statistics_usage": 0,
+    "future_past_ratio": 1.0,
+    "passive_voice_usage": 19.444444444444446,
+    "openai_analysis": {
+      "readability_score": 6,
+      "persuasiveness_score": 7,
+      "credibility_score": 8,
+      "engagement_score": 7,
+      "call_to_action_strength": 8,
+      "key_themes": [
+        "Generative AI Technology",
+        "Partnership",
+        "Sustainability",
+        "Customer Engagement",
+        "Innovation in Packaging"
+      ],
+      "tone_analysis": "professional",
+      "target_audience": "Business professionals in packaging and technology sectors"
     },
     "marketing_effectiveness_score": 100
   }

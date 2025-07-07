@@ -1,28 +1,28 @@
 {
-  "url": "https://www.mindfoundry.ai/resources/case-study/enhanced-pricing",
-  "word_count": 616,
-  "character_count": 4043,
-  "jargon_density": 8.116883116883116,
-  "process_clarity": 1.2987012987012987,
-  "vague_terms": 0.0,
-  "statistics_usage": 0,
-  "future_past_ratio": 0.75,
-  "passive_voice_usage": 0.0,
+  "url": "https://www.mesh-ai.com/blog-posts/mesh-ai-and-national-grid-ventures-leverage-ai-to-protect-critical-underwater-infrastructure",
+  "word_count": 993,
+  "character_count": 8717,
+  "jargon_density": 2.014098690835851,
+  "process_clarity": 1.3091641490433032,
+  "vague_terms": 4.028197381671702,
+  "statistics_usage": 5,
+  "future_past_ratio": 0.8333333333333334,
+  "passive_voice_usage": 24.444444444444443,
   "openai_analysis": {
     "readability_score": 6,
-    "persuasiveness_score": 7,
-    "credibility_score": 8,
+    "persuasiveness_score": 8,
+    "credibility_score": 9,
     "engagement_score": 7,
-    "call_to_action_strength": 6,
+    "call_to_action_strength": 5,
     "key_themes": [
-      "AI in pricing models",
-      "Data integration",
-      "Customer retention",
-      "Market competitiveness",
-      "Risk assessment"
+      "AI in infrastructure monitoring",
+      "Environmental sustainability",
+      "Risk management",
+      "Technological innovation",
+      "Collaboration between companies"
     ],
     "tone_analysis": "professional",
-    "target_audience": "Insurance industry professionals and decision-makers"
+    "target_audience": "Industry professionals in energy and utilities, technology stakeholders, and environmental advocates"
   },
   "marketing_effectiveness_score": 100
 }

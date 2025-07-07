@@ -1,28 +1,28 @@
 {
-  "url": "https://www.mindfoundry.ai/resources/case-study/compressing-data",
-  "word_count": 529,
-  "character_count": 3560,
-  "jargon_density": 9.45179584120983,
-  "process_clarity": 2.2684310018903595,
-  "vague_terms": 1.890359168241966,
+  "url": "https://www.mesh-ai.com/blog-posts/accelerating-net-zero-at-national-grid-electricity-transmission-with-data-ai",
+  "word_count": 1609,
+  "character_count": 12527,
+  "jargon_density": 2.175264139216905,
+  "process_clarity": 1.6159105034182724,
+  "vague_terms": 4.35052827843381,
   "statistics_usage": 1,
-  "future_past_ratio": 0.0,
-  "passive_voice_usage": 11.11111111111111,
+  "future_past_ratio": 1.1428571428571428,
+  "passive_voice_usage": 15.873015873015872,
   "openai_analysis": {
     "readability_score": 6,
     "persuasiveness_score": 7,
     "credibility_score": 8,
-    "engagement_score": 6,
-    "call_to_action_strength": 5,
+    "engagement_score": 7,
+    "call_to_action_strength": 6,
     "key_themes": [
-      "Data Compression",
-      "Real-time Processing",
-      "Intelligent Sampling",
-      "Resource Constraints",
-      "Industrial Applications"
+      "Net Zero Transition",
+      "Data Modernization",
+      "AI Integration",
+      "Operational Efficiency",
+      "Sustainable Energy Solutions"
     ],
     "tone_analysis": "professional",
-    "target_audience": "Industry professionals in technology and data management sectors"
+    "target_audience": "Energy and utilities professionals, decision-makers in sustainability, technology and data analysts"
   },
   "marketing_effectiveness_score": 100
 }

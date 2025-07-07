@@ -1,28 +1,28 @@
 {
-  "url": "https://www.mindfoundry.ai/resources/case-study/driving-behaviour",
-  "word_count": 795,
-  "character_count": 5203,
-  "jargon_density": 3.7735849056603774,
-  "process_clarity": 1.257861635220126,
-  "vague_terms": 1.2578616352201257,
-  "statistics_usage": 3,
-  "future_past_ratio": 0.2,
-  "passive_voice_usage": 10.81081081081081,
+  "url": "https://www.mesh-ai.com/blog-posts/reimagining-travelex-unlocking-millions-in-revenue-with-cloud-data-platform-transformation",
+  "word_count": 1445,
+  "character_count": 11842,
+  "jargon_density": 1.7301038062283738,
+  "process_clarity": 0.7612456747404844,
+  "vague_terms": 3.4602076124567476,
+  "statistics_usage": 7,
+  "future_past_ratio": 0.42857142857142855,
+  "passive_voice_usage": 16.94915254237288,
   "openai_analysis": {
     "readability_score": 6,
     "persuasiveness_score": 7,
     "credibility_score": 8,
-    "engagement_score": 6,
+    "engagement_score": 7,
     "call_to_action_strength": 5,
     "key_themes": [
-      "Driving Behaviour Analysis",
-      "Risk Reduction",
-      "Telematics Data Utilization",
-      "Insurance Innovation",
-      "AI and Machine Learning"
+      "Data Transformation",
+      "Customer-Centric Model",
+      "Revenue Growth",
+      "Pandemic Recovery",
+      "Cloud Technology"
     ],
     "tone_analysis": "professional",
-    "target_audience": "Insurance professionals and stakeholders in the automotive and telematics industries"
+    "target_audience": "Business leaders and decision-makers in the financial services and technology sectors"
   },
   "marketing_effectiveness_score": 100
 }

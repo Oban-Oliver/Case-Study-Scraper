@@ -1,28 +1,28 @@
 {
-  "url": "https://www.mindfoundry.ai/resources/case-study/reducing-the-cost-of-fraud-claims",
-  "word_count": 958,
-  "character_count": 6215,
-  "jargon_density": 7.828810020876826,
-  "process_clarity": 1.3569937369519833,
-  "vague_terms": 2.08768267223382,
-  "statistics_usage": 4,
-  "future_past_ratio": 0.1111111111111111,
-  "passive_voice_usage": 14.285714285714285,
+  "url": "https://www.mesh-ai.com/blog-posts/modern-data-capabilities-to-solve-short-term-challenges-and-power-future-innovation",
+  "word_count": 1206,
+  "character_count": 10423,
+  "jargon_density": 2.0729684908789388,
+  "process_clarity": 1.4096185737976783,
+  "vague_terms": 14.096185737976782,
+  "statistics_usage": 1,
+  "future_past_ratio": 4.166666666666667,
+  "passive_voice_usage": 13.725490196078432,
   "openai_analysis": {
-    "readability_score": 5,
+    "readability_score": 6,
     "persuasiveness_score": 7,
     "credibility_score": 8,
-    "engagement_score": 6,
-    "call_to_action_strength": 5,
+    "engagement_score": 7,
+    "call_to_action_strength": 6,
     "key_themes": [
-      "Fraud Detection",
-      "AI Technology",
-      "Insurance Industry",
-      "Cost Reduction",
-      "Data Integration"
+      "Data-driven transformation",
+      "Unified data strategy",
+      "Cultural transformation",
+      "Operational efficiency",
+      "Future-ready design"
     ],
     "tone_analysis": "professional",
-    "target_audience": "Insurance professionals and decision-makers in fraud prevention"
+    "target_audience": "Insurance industry professionals and decision-makers"
   },
   "marketing_effectiveness_score": 100
 }
