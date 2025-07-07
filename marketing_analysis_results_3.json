@@ -7,6 +7,7 @@
   "vague_terms": 1.201923076923077,
   "statistics_usage": 0,
   "future_past_ratio": 0.2,
+  "passive_voice_usage": 13.157894736842104,
   "openai_analysis": {
     "readability_score": 6,
     "persuasiveness_score": 7,
@@ -21,7 +22,7 @@
       "Driver Behavior Analysis"
     ],
     "tone_analysis": "professional",
-    "target_audience": "Insurance industry professionals and decision-makers"
+    "target_audience": "Insurance professionals and decision-makers in risk management"
   },
   "marketing_effectiveness_score": 100
 }

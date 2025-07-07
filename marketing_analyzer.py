@@ -172,6 +172,32 @@ class MarketingAnalyzer:
         
         return future_count / past_count if past_count > 0 else future_count
 
+    def calculate_passive_voice_usage(self, text: str) -> float:
+        """Calculate passive voice usage (percentage of sentences with passive voice)"""
+        # Common passive voice patterns
+        passive_patterns = [
+            r'\b(is|are|was|were|being|been|be)\s+\w+ed\b',  # to be + past participle
+            r'\b(is|are|was|were|being|been|be)\s+\w+en\b',  # to be + past participle ending in -en
+            r'\b(is|are|was|were|being|been|be)\s+(made|done|given|taken|written|spoken|broken|chosen|driven|eaten|fallen|forgotten|gotten|hidden|known|seen|shown|stolen|thrown|worn)\b',  # irregular past participles
+        ]
+        
+        # Split text into sentences
+        sentences = re.split(r'[.!?]+', text)
+        total_sentences = len([s for s in sentences if s.strip()])
+        
+        if total_sentences == 0:
+            return 0.0
+        
+        passive_count = 0
+        for sentence in sentences:
+            sentence_lower = sentence.lower()
+            for pattern in passive_patterns:
+                if re.search(pattern, sentence_lower):
+                    passive_count += 1
+                    break  # Count each sentence only once
+        
+        return (passive_count / total_sentences) * 100
+
     def get_openai_analysis(self, text: str) -> Dict:
         """Get enhanced analysis from OpenAI GPT-4o-mini"""
         prompt = f"""
@@ -223,6 +249,7 @@ class MarketingAnalyzer:
             'vague_terms': -0.3,  # Too many vague terms is bad
             'statistics_usage': 0.8,  # Statistics add credibility
             'future_past_ratio': 0.2,  # Slight preference for future focus
+            'passive_voice_usage': -0.3,  # Too much passive voice is bad
         }
         
         score = 50  # Base score
@@ -233,6 +260,7 @@ class MarketingAnalyzer:
         score += min(metrics['vague_terms'], 15) * weights['vague_terms']
         score += min(metrics['statistics_usage'], 10) * weights['statistics_usage']
         score += min(metrics['future_past_ratio'], 5) * weights['future_past_ratio']
+        score += min(metrics['passive_voice_usage'], 30) * weights['passive_voice_usage']
         
         # Apply OpenAI metrics if available
         if 'openai_analysis' in metrics and 'error' not in metrics['openai_analysis']:
@@ -262,6 +290,7 @@ class MarketingAnalyzer:
             'vague_terms': self.calculate_vague_terms(text),
             'statistics_usage': self.calculate_statistics_usage(text),
             'future_past_ratio': self.calculate_future_past_ratio(text),
+            'passive_voice_usage': self.calculate_passive_voice_usage(text),
         }
         
         print("Getting OpenAI analysis...")
@@ -288,6 +317,7 @@ class MarketingAnalyzer:
         print(f"  Vague Terms: {metrics['vague_terms']:.2f} buzzwords per 1000 words")
         print(f"  Statistics Usage: {metrics['statistics_usage']} quantitative data points")
         print(f"  Future/Past Ratio: {metrics['future_past_ratio']:.2f}")
+        print(f"  Passive Voice Usage: {metrics['passive_voice_usage']:.2f}% of sentences")
         print()
         
         if 'error' not in metrics['openai_analysis']:

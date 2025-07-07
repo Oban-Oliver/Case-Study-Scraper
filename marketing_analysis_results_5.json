@@ -7,21 +7,22 @@
   "vague_terms": 0.0,
   "statistics_usage": 1,
   "future_past_ratio": 0.0,
+  "passive_voice_usage": 11.11111111111111,
   "openai_analysis": {
     "readability_score": 6,
     "persuasiveness_score": 7,
     "credibility_score": 8,
     "engagement_score": 6,
-    "call_to_action_strength": 7,
+    "call_to_action_strength": 5,
     "key_themes": [
       "Data Compression",
       "Real-time Processing",
-      "AI Solutions",
-      "Industrial Applications",
-      "Resource Constraints"
+      "Resource Constraints",
+      "Intelligent Sampling",
+      "Industrial Applications"
     ],
     "tone_analysis": "professional",
-    "target_audience": "Industry professionals in technology and engineering sectors, particularly in defence and national security"
+    "target_audience": "Industry professionals in data science and engineering, particularly in sectors like Defence and National Security"
   },
   "marketing_effectiveness_score": 100
 }

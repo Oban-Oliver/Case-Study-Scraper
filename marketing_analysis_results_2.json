@@ -7,6 +7,7 @@
   "vague_terms": 0.0,
   "statistics_usage": 0,
   "future_past_ratio": 0.0,
+  "passive_voice_usage": 0.0,
   "openai_analysis": {
     "readability_score": 6,
     "persuasiveness_score": 7,
@@ -14,11 +15,11 @@
     "engagement_score": 7,
     "call_to_action_strength": 6,
     "key_themes": [
-      "AI in pricing models",
-      "Insurance market competitiveness",
-      "Data integration",
-      "Customer retention",
-      "Continuous learning"
+      "AI in Pricing Models",
+      "Customer Retention",
+      "Data Integration",
+      "Market Competitiveness",
+      "Risk Assessment"
     ],
     "tone_analysis": "professional",
     "target_audience": "Insurance industry professionals and decision-makers"

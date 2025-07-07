@@ -7,17 +7,18 @@
   "vague_terms": 0.0,
   "statistics_usage": 1,
   "future_past_ratio": 0.0,
+  "passive_voice_usage": 9.523809523809524,
   "openai_analysis": {
     "readability_score": 6,
     "persuasiveness_score": 7,
     "credibility_score": 8,
-    "engagement_score": 6,
-    "call_to_action_strength": 5,
+    "engagement_score": 7,
+    "call_to_action_strength": 6,
     "key_themes": [
       "Fraud Detection",
       "AI Solutions",
-      "Cost Reduction",
       "Insurance Industry",
+      "Cost Reduction",
       "Data Integration"
     ],
     "tone_analysis": "professional",
