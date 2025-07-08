@@ -1,62 +1,7 @@
 [
   {
-    "url": "https://www.ey.com/en_lt/insights/ai/how-ey-is-navigating-global-ai-compliance-the-eu-ai-act-and-beyond",
-    "word_count": 6737,
-    "character_count": 40125,
-    "jargon_density": 3.1913314531690666,
-    "process_clarity": 0.38592845480184057,
-    "vague_terms": 3.117114442630251,
-    "statistics_usage": 3,
-    "future_past_ratio": 4.444444444444445,
-    "passive_voice_usage": 1.3793103448275863,
-    "openai_analysis": {
-      "error": "OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-************************************************************************************************************************CfgA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
-    },
-    "marketing_effectiveness_score": 50.73022418086884
-  },
-  {
-    "url": "https://www.ey.com/en_lt/insights/consulting/how-bayer-is-unearthing-agronomy-future-with-generative-ai",
-    "word_count": 8655,
-    "character_count": 50886,
-    "jargon_density": 3.2928942807625647,
-    "process_clarity": 0.5083766608896592,
-    "vague_terms": 2.541883304448296,
-    "statistics_usage": 4,
-    "future_past_ratio": 1.368421052631579,
-    "passive_voice_usage": 3.8461538461538463,
-    "openai_analysis": {
-      "error": "OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-************************************************************************************************************************CfgA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
-    },
-    "marketing_effectiveness_score": 50.41920258585406
-  },
-  {
-    "url": "https://www.ey.com/en_lt/insights/consulting/how-caterpillar-is-using-technology-on-its-journey-to-improve-financial-forecasting",
-    "word_count": 7888,
-    "character_count": 47477,
-    "jargon_density": 3.8666328600405677,
-    "process_clarity": 0.8493914807302232,
-    "vague_terms": 3.5496957403651117,
-    "statistics_usage": 2,
-    "future_past_ratio": 1.2727272727272727,
-    "passive_voice_usage": 7.428571428571429,
-    "openai_analysis": {
-      "error": "OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-************************************************************************************************************************CfgA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
-    },
-    "marketing_effectiveness_score": 47.47714035457444
-  },
-  {
-    "url": "https://www.ey.com/en_lt/insights/ai/how-a-global-biopharma-became-a-leader-in-ethical-ai",
-    "word_count": 8442,
-    "character_count": 49692,
-    "jargon_density": 2.5467898602226957,
-    "process_clarity": 0.47382136934375735,
-    "vague_terms": 1.1845534233593935,
-    "statistics_usage": 1,
-    "future_past_ratio": 0.8958333333333334,
-    "passive_voice_usage": 3.932584269662921,
-    "openai_analysis": {
-      "error": "OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-************************************************************************************************************************CfgA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
-    },
-    "marketing_effectiveness_score": 48.64445179799238
+    "url": "https://www.accenture.com/us-en/case-studies/data-ai/best-buy-humanizes-customer-experience-genai",
+    "error": "\ud83d\udeab BOT RESTRICTION DETECTED: The website appears to be blocking automated access. Found 'cloudflare' in response.",
+    "status": "failed"
   }
 ]

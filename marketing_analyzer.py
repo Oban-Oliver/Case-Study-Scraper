@@ -450,10 +450,7 @@ def main():
     
     # Test URLs
     test_urls = [
-        "https://www.ey.com/en_lt/insights/ai/how-ey-is-navigating-global-ai-compliance-the-eu-ai-act-and-beyond",
-        "https://www.ey.com/en_lt/insights/consulting/how-bayer-is-unearthing-agronomy-future-with-generative-ai",
-        "https://www.ey.com/en_lt/insights/consulting/how-caterpillar-is-using-technology-on-its-journey-to-improve-financial-forecasting",
-        "https://www.ey.com/en_lt/insights/ai/how-a-global-biopharma-became-a-leader-in-ethical-ai"
+        "https://www.accenture.com/us-en/case-studies/data-ai/best-buy-humanizes-customer-experience-genai"
     ]
     
     analyzer = MarketingAnalyzer(api_key)
