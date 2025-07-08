@@ -450,7 +450,12 @@ def main():
     
     # Test URLs
     test_urls = [
-        "https://www.slalom.com/us/en/customer-stories/jaja-responding-faster-with-genai"
+        "https://qodea.com/resources/visma-proactive-switches-from-servers-to-cloud/",
+        "https://qodea.com/resources/migrate-automate-optimises-google-cloud-performance-for-gsk/#the-benefits",
+        "https://qodea.com/resources/how-a-multinational-investment-bank-delivers-streaming-transaction-data-in-real-time/",
+        "https://qodea.com/resources/how-a-multinational-investment-bank-delivers-streaming-transaction-data-in-real-time/#the-results",
+        "https://qodea.com/resources/how-national-grid-achieved-rapid-ml-solution-in-just-six-weeks/",
+        "https://qodea.com/resources/machine-learning-artificial-intelligence-esa/"
     ]
     
     analyzer = MarketingAnalyzer(api_key)
