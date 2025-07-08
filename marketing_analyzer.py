@@ -450,7 +450,7 @@ def main():
     
     # Test URLs
     test_urls = [
-        "https://www.accenture.com/us-en/case-studies/data-ai/best-buy-humanizes-customer-experience-genai"
+        "https://www.deloitte.com/global/en/Industries/tmt/case-studies/digital-assets-deliver-more-than-faster-race-times.html"
     ]
     
     analyzer = MarketingAnalyzer(api_key)

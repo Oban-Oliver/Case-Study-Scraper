@@ -1,15 +1,15 @@
 {
-  "url": "https://www.ey.com/en_lt/insights/ai/how-ey-is-navigating-global-ai-compliance-the-eu-ai-act-and-beyond",
-  "word_count": 6737,
-  "character_count": 40125,
-  "jargon_density": 3.1913314531690666,
-  "process_clarity": 0.38592845480184057,
-  "vague_terms": 3.117114442630251,
-  "statistics_usage": 3,
-  "future_past_ratio": 4.444444444444445,
-  "passive_voice_usage": 1.3793103448275863,
+  "url": "https://www.deloitte.com/global/en/Industries/tmt/case-studies/digital-assets-deliver-more-than-faster-race-times.html",
+  "word_count": 1891,
+  "character_count": 13458,
+  "jargon_density": 2.908514013749339,
+  "process_clarity": 1.7451084082496033,
+  "vague_terms": 2.1152829190904283,
+  "statistics_usage": 2,
+  "future_past_ratio": 2.4285714285714284,
+  "passive_voice_usage": 2.0,
   "openai_analysis": {
     "error": "OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-************************************************************************************************************************CfgA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
   },
-  "marketing_effectiveness_score": 50.73022418086884
+  "marketing_effectiveness_score": 51.141980811362096
 }
