@@ -1,28 +1,15 @@
 {
-  "url": "https://tomoro.ai/insights/designing-ai-solutions-emerging-patterns-in-ai-experience-design",
-  "word_count": 5963,
-  "character_count": 37737,
-  "jargon_density": 1.5093073956062384,
-  "process_clarity": 1.14036558779138,
-  "vague_terms": 1.341606573872212,
-  "statistics_usage": 2,
-  "future_past_ratio": 0.7142857142857143,
-  "passive_voice_usage": 10.28368794326241,
+  "url": "https://www.thoughtworks.com/clients/fresh-energy",
+  "word_count": 734,
+  "character_count": 5136,
+  "jargon_density": 6.8119891008174385,
+  "process_clarity": 1.6348773841961852,
+  "vague_terms": 5.449591280653951,
+  "statistics_usage": 0,
+  "future_past_ratio": 5.0,
+  "passive_voice_usage": 19.047619047619047,
   "openai_analysis": {
-    "readability_score": 6,
-    "persuasiveness_score": 7,
-    "credibility_score": 8,
-    "engagement_score": 7,
-    "call_to_action_strength": 5,
-    "key_themes": [
-      "AI Experience Design",
-      "Human-AI Interaction",
-      "Emerging Design Patterns",
-      "User Research",
-      "Productivity Challenges"
-    ],
-    "tone_analysis": "professional",
-    "target_audience": "knowledge workers, AI developers, and technology enthusiasts"
+    "error": "OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-************************************************************************************************************************CfgA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
   },
-  "marketing_effectiveness_score": 100
+  "marketing_effectiveness_score": 41.879719735305564
 }

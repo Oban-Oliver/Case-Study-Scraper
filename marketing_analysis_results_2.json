@@ -1,28 +1,15 @@
 {
-  "url": "https://tomoro.ai/insights/heuristics-for-agentic-system-design",
-  "word_count": 1451,
-  "character_count": 9684,
-  "jargon_density": 1.3783597518952446,
-  "process_clarity": 1.2405237767057202,
-  "vague_terms": 2.067539627842867,
-  "statistics_usage": 1,
-  "future_past_ratio": 1.0909090909090908,
-  "passive_voice_usage": 11.842105263157894,
+  "url": "https://www.thoughtworks.com/clients/ktaxa",
+  "word_count": 704,
+  "character_count": 4723,
+  "jargon_density": 1.4204545454545454,
+  "process_clarity": 2.414772727272727,
+  "vague_terms": 4.261363636363636,
+  "statistics_usage": 2,
+  "future_past_ratio": 0.6666666666666666,
+  "passive_voice_usage": 0.0,
   "openai_analysis": {
-    "readability_score": 4,
-    "persuasiveness_score": 6,
-    "credibility_score": 8,
-    "engagement_score": 5,
-    "call_to_action_strength": 4,
-    "key_themes": [
-      "Agentic System Design",
-      "Router vs. Orchestrator Architectures",
-      "Decision-Making Processes",
-      "High-Risk Workflows",
-      "Natural Language Processing"
-    ],
-    "tone_analysis": "technical",
-    "target_audience": "software developers, system architects, and AI practitioners"
+    "error": "OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-************************************************************************************************************************CfgA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
   },
-  "marketing_effectiveness_score": 99.89663225163969
+  "marketing_effectiveness_score": 52.159469696969694
 }

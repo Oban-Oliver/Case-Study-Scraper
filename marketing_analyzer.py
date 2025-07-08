@@ -450,7 +450,13 @@ def main():
     
     # Test URLs
     test_urls = [
-        "https://www.thoughtworks.com/clients/financial-services-insurance/xapo-bank"
+        "https://www.thoughtworks.com/clients/financial-services-insurance/xapo-bank",
+        "https://www.thoughtworks.com/clients/ktaxa",
+        "https://www.thoughtworks.com/clients/iag",
+        "https://www.thoughtworks.com/clients/standardcharteredbank",
+        "https://www.thoughtworks.com/clients/fresh-energy",
+        "https://www.thoughtworks.com/clients/bosch",
+        "https://www.thoughtworks.com/clients/Bringing-green-cloud-optimization-to-a-green-energy-business"
     ]
     
     analyzer = MarketingAnalyzer(api_key)

@@ -1,28 +1,15 @@
 {
-  "url": "https://tomoro.ai/insights/building-safe-chat-agents-at-100000s-messages-per-day-scale-for-high-risk-businesses",
-  "word_count": 1352,
-  "character_count": 8751,
-  "jargon_density": 2.5887573964497044,
-  "process_clarity": 1.4792899408284024,
-  "vague_terms": 2.9585798816568047,
-  "statistics_usage": 1,
-  "future_past_ratio": 0.7142857142857143,
-  "passive_voice_usage": 16.363636363636363,
+  "url": "https://www.thoughtworks.com/clients/bosch",
+  "word_count": 1423,
+  "character_count": 9274,
+  "jargon_density": 3.162333099086437,
+  "process_clarity": 2.7406886858749124,
+  "vague_terms": 4.919184820801124,
+  "statistics_usage": 2,
+  "future_past_ratio": 0.45454545454545453,
+  "passive_voice_usage": 15.384615384615385,
   "openai_analysis": {
-    "readability_score": 6,
-    "persuasiveness_score": 7,
-    "credibility_score": 8,
-    "engagement_score": 7,
-    "call_to_action_strength": 6,
-    "key_themes": [
-      "Safety in GenAI applications",
-      "Risks of LLMs",
-      "Layered classification methods",
-      "Child safety in chatbots",
-      "Brand reputation management"
-    ],
-    "tone_analysis": "technical-lite",
-    "target_audience": "Businesses in high-risk sectors, particularly those developing or using GenAI applications"
+    "error": "OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-************************************************************************************************************************CfgA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
   },
-  "marketing_effectiveness_score": 100
+  "marketing_effectiveness_score": 46.75929116561584
 }

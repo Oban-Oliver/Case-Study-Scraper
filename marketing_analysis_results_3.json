@@ -1,28 +1,15 @@
 {
-  "url": "https://tomoro.ai/insights/why-all-the-fuss-about-mcp",
-  "word_count": 1541,
-  "character_count": 10346,
-  "jargon_density": 3.244646333549643,
-  "process_clarity": 0.8436080467229071,
-  "vague_terms": 5.840363400389357,
-  "statistics_usage": 0,
-  "future_past_ratio": 0.2,
-  "passive_voice_usage": 5.405405405405405,
+  "url": "https://www.thoughtworks.com/clients/iag",
+  "word_count": 777,
+  "character_count": 5026,
+  "jargon_density": 1.9305019305019306,
+  "process_clarity": 1.673101673101673,
+  "vague_terms": 1.287001287001287,
+  "statistics_usage": 2,
+  "future_past_ratio": 1.0,
+  "passive_voice_usage": 0.0,
   "openai_analysis": {
-    "readability_score": 7,
-    "persuasiveness_score": 8,
-    "credibility_score": 9,
-    "engagement_score": 7,
-    "call_to_action_strength": 6,
-    "key_themes": [
-      "Model Context Protocol (MCP)",
-      "AI development",
-      "Large Language Models (LLMs)",
-      "Collaboration in technology",
-      "Context management"
-    ],
-    "tone_analysis": "professional",
-    "target_audience": "AI developers and industry professionals"
+    "error": "OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-************************************************************************************************************************CfgA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
   },
-  "marketing_effectiveness_score": 100
+  "marketing_effectiveness_score": 52.12175032175032
 }

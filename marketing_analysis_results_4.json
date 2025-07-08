@@ -1,28 +1,15 @@
 {
-  "url": "https://tomoro.ai/insights/bringing-deep-research-to-enterprise",
-  "word_count": 1394,
-  "character_count": 9050,
-  "jargon_density": 1.0760401721664274,
-  "process_clarity": 1.0043041606886656,
-  "vague_terms": 3.586800573888092,
-  "statistics_usage": 3,
-  "future_past_ratio": 0.5714285714285714,
-  "passive_voice_usage": 14.0625,
+  "url": "https://www.thoughtworks.com/clients/standardcharteredbank",
+  "word_count": 567,
+  "character_count": 3844,
+  "jargon_density": 1.763668430335097,
+  "process_clarity": 1.4109347442680775,
+  "vague_terms": 0.0,
+  "statistics_usage": 1,
+  "future_past_ratio": 4.0,
+  "passive_voice_usage": 9.090909090909092,
   "openai_analysis": {
-    "readability_score": 6,
-    "persuasiveness_score": 7,
-    "credibility_score": 8,
-    "engagement_score": 6,
-    "call_to_action_strength": 5,
-    "key_themes": [
-      "AI Research",
-      "Enterprise Solutions",
-      "Data Integration",
-      "Competitive Advantage",
-      "User-Centric Tools"
-    ],
-    "tone_analysis": "professional",
-    "target_audience": "Business professionals and decision-makers in industries such as pharmaceuticals, finance, and law"
+    "error": "OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-************************************************************************************************************************CfgA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
   },
-  "marketing_effectiveness_score": 100
+  "marketing_effectiveness_score": 49.40182780182779
 }

@@ -1,28 +1,15 @@
 {
-  "url": "https://tomoro.ai/insights/retrieval-augmented-generation-in-2025",
-  "word_count": 2529,
-  "character_count": 15991,
-  "jargon_density": 5.5357848952155,
-  "process_clarity": 1.7398181099248715,
-  "vague_terms": 4.744958481613287,
-  "statistics_usage": 4,
-  "future_past_ratio": 0.6785714285714286,
-  "passive_voice_usage": 7.142857142857142,
+  "url": "https://www.thoughtworks.com/clients/Bringing-green-cloud-optimization-to-a-green-energy-business",
+  "word_count": 989,
+  "character_count": 6543,
+  "jargon_density": 2.0222446916076846,
+  "process_clarity": 1.6177957532861478,
+  "vague_terms": 0.0,
+  "statistics_usage": 1,
+  "future_past_ratio": 0.8571428571428571,
+  "passive_voice_usage": 4.3478260869565215,
   "openai_analysis": {
-    "readability_score": 7,
-    "persuasiveness_score": 8,
-    "credibility_score": 9,
-    "engagement_score": 7,
-    "call_to_action_strength": 6,
-    "key_themes": [
-      "Data Quality",
-      "Retrieval-Augmented Generation (RAG)",
-      "AI Integration",
-      "Data Privacy",
-      "Business Success"
-    ],
-    "tone_analysis": "professional",
-    "target_audience": "Business professionals and decision-makers in data-driven industries"
+    "error": "OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-************************************************************************************************************************CfgA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
   },
-  "marketing_effectiveness_score": 100
+  "marketing_effectiveness_score": 50.27375415282392
 }
