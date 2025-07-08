@@ -450,7 +450,7 @@ def main():
     
     # Test URLs
     test_urls = [
-        "https://www.dataart.com/clients/case-studies/ai-personalization-boosts-revenue-for-insurance-aggregator"
+        "https://www.baringa.com/en/impact/case-studies/securing-critical-national-infrastructure/"
     ]
     
     analyzer = MarketingAnalyzer(api_key)
