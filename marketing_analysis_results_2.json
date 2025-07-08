@@ -1,15 +1,15 @@
 {
-  "url": "https://www.baringa.com/en/impact/case-studies/payments-provider-tackle-climate-disclosures/",
-  "word_count": 1157,
-  "character_count": 7801,
-  "jargon_density": 3.025064822817632,
-  "process_clarity": 0.432152117545376,
-  "vague_terms": 5.185825410544512,
-  "statistics_usage": 1,
-  "future_past_ratio": 0.9285714285714286,
-  "passive_voice_usage": 0.0,
+  "url": "https://www.ey.com/en_lt/insights/consulting/how-bayer-is-unearthing-agronomy-future-with-generative-ai",
+  "word_count": 8655,
+  "character_count": 50886,
+  "jargon_density": 3.2928942807625647,
+  "process_clarity": 0.5083766608896592,
+  "vague_terms": 2.541883304448296,
+  "statistics_usage": 4,
+  "future_past_ratio": 1.368421052631579,
+  "passive_voice_usage": 3.8461538461538463,
   "openai_analysis": {
     "error": "OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-************************************************************************************************************************CfgA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
   },
-  "marketing_effectiveness_score": 48.34958636868749
+  "marketing_effectiveness_score": 50.41920258585406
 }

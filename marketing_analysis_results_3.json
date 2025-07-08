@@ -1,15 +1,15 @@
 {
-  "url": "https://www.baringa.com/en/impact/case-studies/tailoring-an-esg-model-for-a-super-fund/",
-  "word_count": 1084,
-  "character_count": 7477,
-  "jargon_density": 5.996309963099631,
-  "process_clarity": 0.7380073800738007,
-  "vague_terms": 6.4575645756457565,
-  "statistics_usage": 0,
-  "future_past_ratio": 1.875,
-  "passive_voice_usage": 3.4482758620689653,
+  "url": "https://www.ey.com/en_lt/insights/consulting/how-caterpillar-is-using-technology-on-its-journey-to-improve-financial-forecasting",
+  "word_count": 7888,
+  "character_count": 47477,
+  "jargon_density": 3.8666328600405677,
+  "process_clarity": 0.8493914807302232,
+  "vague_terms": 3.5496957403651117,
+  "statistics_usage": 2,
+  "future_past_ratio": 1.2727272727272727,
+  "passive_voice_usage": 7.428571428571429,
   "openai_analysis": {
     "error": "OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-************************************************************************************************************************CfgA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
   },
-  "marketing_effectiveness_score": 45.14310026720957
+  "marketing_effectiveness_score": 47.47714035457444
 }

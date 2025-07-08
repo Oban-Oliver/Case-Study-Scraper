@@ -1,15 +1,15 @@
 {
-  "url": "https://www.baringa.com/en/impact/case-studies/unlocking-budget-to-uplift-climate-capabilities/",
-  "word_count": 1148,
-  "character_count": 7723,
-  "jargon_density": 2.613240418118467,
-  "process_clarity": 0.5226480836236934,
-  "vague_terms": 1.7421602787456445,
-  "statistics_usage": 0,
-  "future_past_ratio": 0.9375,
-  "passive_voice_usage": 9.090909090909092,
+  "url": "https://www.ey.com/en_lt/insights/ai/how-a-global-biopharma-became-a-leader-in-ethical-ai",
+  "word_count": 8442,
+  "character_count": 49692,
+  "jargon_density": 2.5467898602226957,
+  "process_clarity": 0.47382136934375735,
+  "vague_terms": 1.1845534233593935,
+  "statistics_usage": 1,
+  "future_past_ratio": 0.8958333333333334,
+  "passive_voice_usage": 3.932584269662921,
   "openai_analysis": {
     "error": "OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-************************************************************************************************************************CfgA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
   },
-  "marketing_effectiveness_score": 46.15360706366804
+  "marketing_effectiveness_score": 48.64445179799238
 }
