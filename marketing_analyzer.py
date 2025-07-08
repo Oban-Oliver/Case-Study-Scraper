@@ -450,13 +450,7 @@ def main():
     
     # Test URLs
     test_urls = [
-        "https://www.baringa.com/en/impact/case-studies/securing-critical-national-infrastructure/",
-        "https://www.baringa.com/en/impact/case-studies/payments-provider-tackle-climate-disclosures/",
-        "https://www.baringa.com/en/impact/case-studies/tailoring-an-esg-model-for-a-super-fund/",
-        "https://www.baringa.com/en/impact/case-studies/unlocking-budget-to-uplift-climate-capabilities/",
-        "https://www.baringa.com/en/impact/case-studies/ai-investment-global-energy-leader/",
-        "https://www.baringa.com/en/impact/case-studies/improving-customer-service/",
-        "https://www.baringa.com/en/impact/case-studies/maintaining-the-stability-of-nsw-power-system/"
+        "https://www.cambridgeconsultants.com/pathways-to-accessing-billions-in-the-future-grid/"
     ]
     
     analyzer = MarketingAnalyzer(api_key)
