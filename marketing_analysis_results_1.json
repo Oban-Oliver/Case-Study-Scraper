@@ -1,28 +1,15 @@
 {
-  "url": "https://tomoro.ai/insights/practical-examples-of-customised-rag-solutions",
-  "word_count": 1861,
-  "character_count": 11150,
-  "jargon_density": 2.686727565824825,
-  "process_clarity": 0.9134873723804406,
-  "vague_terms": 0.5373455131649651,
-  "statistics_usage": 3,
-  "future_past_ratio": 0.125,
-  "passive_voice_usage": 11.235955056179774,
+  "url": "https://www.thoughtworks.com/clients/financial-services-insurance/xapo-bank",
+  "word_count": 1430,
+  "character_count": 9498,
+  "jargon_density": 1.7482517482517483,
+  "process_clarity": 2.307692307692308,
+  "vague_terms": 6.293706293706294,
+  "statistics_usage": 0,
+  "future_past_ratio": 0.6842105263157895,
+  "passive_voice_usage": 3.4482758620689653,
   "openai_analysis": {
-    "readability_score": 6,
-    "persuasiveness_score": 7,
-    "credibility_score": 8,
-    "engagement_score": 7,
-    "call_to_action_strength": 5,
-    "key_themes": [
-      "Retrieval Augmented Generation (RAG)",
-      "Data Challenges",
-      "Custom Solutions",
-      "Embedding Techniques",
-      "Contextual Summaries"
-    ],
-    "tone_analysis": "technical",
-    "target_audience": "data scientists, AI developers, and technical professionals interested in RAG solutions"
+    "error": "OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-************************************************************************************************************************CfgA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
   },
-  "marketing_effectiveness_score": 100
+  "marketing_effectiveness_score": 48.64781389209701
 }
