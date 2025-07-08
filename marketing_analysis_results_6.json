@@ -1,15 +1,15 @@
 {
-  "url": "https://www.thoughtworks.com/clients/bosch",
-  "word_count": 1423,
-  "character_count": 9274,
-  "jargon_density": 3.162333099086437,
-  "process_clarity": 2.7406886858749124,
-  "vague_terms": 4.919184820801124,
-  "statistics_usage": 2,
-  "future_past_ratio": 0.45454545454545453,
-  "passive_voice_usage": 15.384615384615385,
+  "url": "https://www.baringa.com/en/impact/case-studies/improving-customer-service/",
+  "word_count": 1109,
+  "character_count": 7319,
+  "jargon_density": 3.6068530207394045,
+  "process_clarity": 0.4508566275924256,
+  "vague_terms": 2.705139765554554,
+  "statistics_usage": 4,
+  "future_past_ratio": 0.4444444444444444,
+  "passive_voice_usage": 6.0606060606060606,
   "openai_analysis": {
     "error": "OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-************************************************************************************************************************CfgA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
   },
-  "marketing_effectiveness_score": 46.75929116561584
+  "marketing_effectiveness_score": 49.30659525826342
 }

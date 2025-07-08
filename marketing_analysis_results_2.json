@@ -1,15 +1,15 @@
 {
-  "url": "https://www.thoughtworks.com/clients/ktaxa",
-  "word_count": 704,
-  "character_count": 4723,
-  "jargon_density": 1.4204545454545454,
-  "process_clarity": 2.414772727272727,
-  "vague_terms": 4.261363636363636,
-  "statistics_usage": 2,
-  "future_past_ratio": 0.6666666666666666,
+  "url": "https://www.baringa.com/en/impact/case-studies/payments-provider-tackle-climate-disclosures/",
+  "word_count": 1157,
+  "character_count": 7801,
+  "jargon_density": 3.025064822817632,
+  "process_clarity": 0.432152117545376,
+  "vague_terms": 5.185825410544512,
+  "statistics_usage": 1,
+  "future_past_ratio": 0.9285714285714286,
   "passive_voice_usage": 0.0,
   "openai_analysis": {
     "error": "OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-************************************************************************************************************************CfgA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
   },
-  "marketing_effectiveness_score": 52.159469696969694
+  "marketing_effectiveness_score": 48.34958636868749
 }

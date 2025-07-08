@@ -1,15 +1,15 @@
 {
-  "url": "https://www.thoughtworks.com/clients/iag",
-  "word_count": 777,
-  "character_count": 5026,
-  "jargon_density": 1.9305019305019306,
-  "process_clarity": 1.673101673101673,
-  "vague_terms": 1.287001287001287,
-  "statistics_usage": 2,
-  "future_past_ratio": 1.0,
-  "passive_voice_usage": 0.0,
+  "url": "https://www.baringa.com/en/impact/case-studies/tailoring-an-esg-model-for-a-super-fund/",
+  "word_count": 1084,
+  "character_count": 7477,
+  "jargon_density": 5.996309963099631,
+  "process_clarity": 0.7380073800738007,
+  "vague_terms": 6.4575645756457565,
+  "statistics_usage": 0,
+  "future_past_ratio": 1.875,
+  "passive_voice_usage": 3.4482758620689653,
   "openai_analysis": {
     "error": "OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-************************************************************************************************************************CfgA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
   },
-  "marketing_effectiveness_score": 52.12175032175032
+  "marketing_effectiveness_score": 45.14310026720957
 }

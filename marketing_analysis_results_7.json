@@ -1,15 +1,15 @@
 {
-  "url": "https://www.thoughtworks.com/clients/Bringing-green-cloud-optimization-to-a-green-energy-business",
-  "word_count": 989,
-  "character_count": 6543,
-  "jargon_density": 2.0222446916076846,
-  "process_clarity": 1.6177957532861478,
-  "vague_terms": 0.0,
+  "url": "https://www.baringa.com/en/impact/case-studies/maintaining-the-stability-of-nsw-power-system/",
+  "word_count": 1160,
+  "character_count": 7858,
+  "jargon_density": 3.8793103448275863,
+  "process_clarity": 1.7241379310344827,
+  "vague_terms": 4.310344827586206,
   "statistics_usage": 1,
-  "future_past_ratio": 0.8571428571428571,
-  "passive_voice_usage": 4.3478260869565215,
+  "future_past_ratio": 1.5714285714285714,
+  "passive_voice_usage": 11.11111111111111,
   "openai_analysis": {
     "error": "OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-************************************************************************************************************************CfgA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
   },
-  "marketing_effectiveness_score": 50.27375415282392
+  "marketing_effectiveness_score": 46.272331691297204
 }

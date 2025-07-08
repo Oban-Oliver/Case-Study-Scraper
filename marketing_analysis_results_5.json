@@ -1,15 +1,15 @@
 {
-  "url": "https://www.thoughtworks.com/clients/fresh-energy",
-  "word_count": 734,
-  "character_count": 5136,
-  "jargon_density": 6.8119891008174385,
-  "process_clarity": 1.6348773841961852,
-  "vague_terms": 5.449591280653951,
-  "statistics_usage": 0,
-  "future_past_ratio": 5.0,
-  "passive_voice_usage": 19.047619047619047,
+  "url": "https://www.baringa.com/en/impact/case-studies/ai-investment-global-energy-leader/",
+  "word_count": 1232,
+  "character_count": 8177,
+  "jargon_density": 3.246753246753247,
+  "process_clarity": 0.8116883116883116,
+  "vague_terms": 2.435064935064935,
+  "statistics_usage": 1,
+  "future_past_ratio": 1.0,
+  "passive_voice_usage": 2.7027027027027026,
   "openai_analysis": {
     "error": "OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-************************************************************************************************************************CfgA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
   },
-  "marketing_effectiveness_score": 41.879719735305564
+  "marketing_effectiveness_score": 48.646981396981396
 }
