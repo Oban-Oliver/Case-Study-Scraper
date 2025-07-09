@@ -1,15 +1,15 @@
 {
-  "url": "https://www.mesh-ai.com/blog-posts/mesh-ai-and-national-grid-ventures-leverage-ai-to-protect-critical-underwater-infrastructure",
-  "word_count": 986,
-  "character_count": 8678,
-  "jargon_density": 2.028397565922921,
-  "process_clarity": 1.3184584178498986,
-  "vague_terms": 4.056795131845842,
-  "statistics_usage": 5,
-  "future_past_ratio": 0.8333333333333334,
-  "passive_voice_usage": 24.444444444444443,
+  "url": "https://www.deloitte.com/global/en/services/consulting-financial/case-studies/67-days-from-engagement-to-success.html",
+  "word_count": 1612,
+  "character_count": 11519,
+  "jargon_density": 2.4813895781637716,
+  "process_clarity": 1.6129032258064515,
+  "vague_terms": 0.0,
+  "statistics_usage": 6,
+  "future_past_ratio": 0.8823529411764706,
+  "passive_voice_usage": 14.285714285714285,
   "openai_analysis": {
     "error": "OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-************************************************************************************************************************CfgA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
   },
-  "marketing_effectiveness_score": 45.92055442866801
+  "marketing_effectiveness_score": 51.06296473924557
 }

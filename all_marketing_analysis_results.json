@@ -1,137 +1,32 @@
 [
   {
-    "url": "https://www.mesh-ai.com/blog-posts/modern-data-capabilities-to-solve-short-term-challenges-and-power-future-innovation",
-    "word_count": 1199,
-    "character_count": 10384,
-    "jargon_density": 2.085070892410342,
-    "process_clarity": 1.4178482068390326,
-    "vague_terms": 14.178482068390325,
-    "statistics_usage": 1,
-    "future_past_ratio": 4.166666666666667,
-    "passive_voice_usage": 13.725490196078432,
+    "url": "https://www.deloitte.com/global/en/Industries/tmt/case-studies/digital-assets-deliver-more-than-faster-race-times.html",
+    "word_count": 1891,
+    "character_count": 13458,
+    "jargon_density": 2.908514013749339,
+    "process_clarity": 1.7451084082496033,
+    "vague_terms": 2.1152829190904283,
+    "statistics_usage": 2,
+    "future_past_ratio": 2.4285714285714284,
+    "passive_voice_usage": 2.0,
     "openai_analysis": {
       "error": "OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-************************************************************************************************************************CfgA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
     },
-    "marketing_effectiveness_score": 43.63745441462657
+    "marketing_effectiveness_score": 51.141980811362096
   },
   {
-    "url": "https://www.mesh-ai.com/blog-posts/mesh-ai-and-national-grid-ventures-leverage-ai-to-protect-critical-underwater-infrastructure",
-    "word_count": 986,
-    "character_count": 8678,
-    "jargon_density": 2.028397565922921,
-    "process_clarity": 1.3184584178498986,
-    "vague_terms": 4.056795131845842,
-    "statistics_usage": 5,
-    "future_past_ratio": 0.8333333333333334,
-    "passive_voice_usage": 24.444444444444443,
+    "url": "https://www.deloitte.com/global/en/services/consulting-financial/case-studies/67-days-from-engagement-to-success.html",
+    "word_count": 1612,
+    "character_count": 11519,
+    "jargon_density": 2.4813895781637716,
+    "process_clarity": 1.6129032258064515,
+    "vague_terms": 0.0,
+    "statistics_usage": 6,
+    "future_past_ratio": 0.8823529411764706,
+    "passive_voice_usage": 14.285714285714285,
     "openai_analysis": {
       "error": "OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-************************************************************************************************************************CfgA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
     },
-    "marketing_effectiveness_score": 45.92055442866801
-  },
-  {
-    "url": "https://www.mesh-ai.com/blog-posts/reimagining-an-energy-enterprise-to-mitigate-reporting-fines-by-leveraging-azures-data-governance-solutions",
-    "word_count": 1298,
-    "character_count": 10754,
-    "jargon_density": 3.0816640986132513,
-    "process_clarity": 1.2326656394453006,
-    "vague_terms": 2.3112480739599386,
-    "statistics_usage": 0,
-    "future_past_ratio": 0.16666666666666666,
-    "passive_voice_usage": 16.94915254237288,
-    "openai_analysis": {
-      "error": "OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-************************************************************************************************************************CfgA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
-    },
-    "marketing_effectiveness_score": 43.94704673857217
-  },
-  {
-    "url": "https://www.mesh-ai.com/blog-posts/reimagining-travelex-unlocking-millions-in-revenue-with-cloud-data-platform-transformation",
-    "word_count": 1438,
-    "character_count": 11803,
-    "jargon_density": 1.7385257301808068,
-    "process_clarity": 0.764951321279555,
-    "vague_terms": 3.4770514603616136,
-    "statistics_usage": 7,
-    "future_past_ratio": 0.42857142857142855,
-    "passive_voice_usage": 16.94915254237288,
-    "openai_analysis": {
-      "error": "OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-************************************************************************************************************************CfgA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
-    },
-    "marketing_effectiveness_score": 49.45354154108309
-  },
-  {
-    "url": "https://www.mesh-ai.com/blog-posts/reimagining-commercial-banking-increasing-agility-through-a-cohesive-ai-strategy",
-    "word_count": 1434,
-    "character_count": 11687,
-    "jargon_density": 2.092050209205021,
-    "process_clarity": 1.0460251046025104,
-    "vague_terms": 8.368200836820083,
-    "statistics_usage": 1,
-    "future_past_ratio": 1.1111111111111112,
-    "passive_voice_usage": 18.181818181818183,
-    "openai_analysis": {
-      "error": "OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-************************************************************************************************************************CfgA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
-    },
-    "marketing_effectiveness_score": 43.05721651663074
-  },
-  {
-    "url": "https://www.mesh-ai.com/blog-posts/transforming-energy-insights-strong-data-foundations-reach-net-zero",
-    "word_count": 1512,
-    "character_count": 11819,
-    "jargon_density": 1.6534391534391533,
-    "process_clarity": 1.7857142857142856,
-    "vague_terms": 5.952380952380952,
-    "statistics_usage": 8,
-    "future_past_ratio": 0.8,
-    "passive_voice_usage": 15.151515151515152,
-    "openai_analysis": {
-      "error": "OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-************************************************************************************************************************CfgA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
-    },
-    "marketing_effectiveness_score": 51.18782587782587
-  },
-  {
-    "url": "https://www.mesh-ai.com/blog-posts/harnessing-the-power-of-ai-machine-learning-to-drive-value-for-energy-utilities",
-    "word_count": 1354,
-    "character_count": 10971,
-    "jargon_density": 5.908419497784343,
-    "process_clarity": 1.7725258493353029,
-    "vague_terms": 5.908419497784343,
-    "statistics_usage": 0,
-    "future_past_ratio": 1.3333333333333333,
-    "passive_voice_usage": 21.153846153846153,
-    "openai_analysis": {
-      "error": "OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-************************************************************************************************************************CfgA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
-    },
-    "marketing_effectiveness_score": 40.96630307162065
-  },
-  {
-    "url": "https://www.mesh-ai.com/blog-posts/mesh-ai-partners-with-ds-smith-generative-ai-reimagine-packaging",
-    "word_count": 809,
-    "character_count": 7468,
-    "jargon_density": 1.2360939431396785,
-    "process_clarity": 1.6069221260815822,
-    "vague_terms": 6.1804697156983925,
-    "statistics_usage": 0,
-    "future_past_ratio": 1.0,
-    "passive_voice_usage": 19.444444444444446,
-    "openai_analysis": {
-      "error": "OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-************************************************************************************************************************CfgA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
-    },
-    "marketing_effectiveness_score": 43.501400906468895
-  },
-  {
-    "url": "https://www.mesh-ai.com/blog-posts/reimagining-energy-utilities-accelerating-net-zero-and-saving-millions-with-data-mesh-ai",
-    "word_count": 1241,
-    "character_count": 10419,
-    "jargon_density": 1.2087026591458503,
-    "process_clarity": 1.7727639000805804,
-    "vague_terms": 4.834810636583401,
-    "statistics_usage": 0,
-    "future_past_ratio": 1.0,
-    "passive_voice_usage": 14.893617021276595,
-    "openai_analysis": {
-      "error": "OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-************************************************************************************************************************CfgA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
-    },
-    "marketing_effectiveness_score": 45.44988427314966
+    "marketing_effectiveness_score": 51.06296473924557
   }
 ]
