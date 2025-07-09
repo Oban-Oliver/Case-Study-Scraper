@@ -1,28 +1,15 @@
 {
-  "url": "https://www.mesh-ai.com/blog-posts/mesh-ai-partners-with-ds-smith-generative-ai-reimagine-packaging",
-  "word_count": 816,
-  "character_count": 7507,
-  "jargon_density": 1.2254901960784315,
-  "process_clarity": 1.5931372549019607,
-  "vague_terms": 6.127450980392156,
+  "url": "https://www.mesh-ai.com/blog-posts/reimagining-energy-utilities-accelerating-net-zero-and-saving-millions-with-data-mesh-ai",
+  "word_count": 1241,
+  "character_count": 10419,
+  "jargon_density": 1.2087026591458503,
+  "process_clarity": 1.7727639000805804,
+  "vague_terms": 4.834810636583401,
   "statistics_usage": 0,
   "future_past_ratio": 1.0,
-  "passive_voice_usage": 19.444444444444446,
+  "passive_voice_usage": 14.893617021276595,
   "openai_analysis": {
-    "readability_score": 6,
-    "persuasiveness_score": 7,
-    "credibility_score": 8,
-    "engagement_score": 7,
-    "call_to_action_strength": 8,
-    "key_themes": [
-      "Generative AI Technology",
-      "Partnership",
-      "Sustainability",
-      "Customer Engagement",
-      "Innovation in Packaging"
-    ],
-    "tone_analysis": "professional",
-    "target_audience": "Business professionals in packaging and technology sectors"
+    "error": "OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-************************************************************************************************************************CfgA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
   },
-  "marketing_effectiveness_score": 100
+  "marketing_effectiveness_score": 45.44988427314966
 }

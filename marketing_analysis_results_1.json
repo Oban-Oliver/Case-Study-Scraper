@@ -1,15 +1,15 @@
 {
-  "url": "https://www.deloitte.com/global/en/services/consulting-financial/case-studies/67-days-from-engagement-to-success.html",
-  "word_count": 1612,
-  "character_count": 11519,
-  "jargon_density": 2.4813895781637716,
-  "process_clarity": 1.6129032258064515,
-  "vague_terms": 0.0,
-  "statistics_usage": 6,
-  "future_past_ratio": 0.8823529411764706,
-  "passive_voice_usage": 14.285714285714285,
+  "url": "https://www.mesh-ai.com/blog-posts/modern-data-capabilities-to-solve-short-term-challenges-and-power-future-innovation",
+  "word_count": 1199,
+  "character_count": 10384,
+  "jargon_density": 2.085070892410342,
+  "process_clarity": 1.4178482068390326,
+  "vague_terms": 14.178482068390325,
+  "statistics_usage": 1,
+  "future_past_ratio": 4.166666666666667,
+  "passive_voice_usage": 13.725490196078432,
   "openai_analysis": {
     "error": "OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-************************************************************************************************************************CfgA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
   },
-  "marketing_effectiveness_score": 51.06296473924557
+  "marketing_effectiveness_score": 43.63745441462657
 }

@@ -1,28 +1,15 @@
 {
-  "url": "https://tomoro.ai/insights/enterprise-ai-in-2025",
-  "word_count": 1378,
-  "character_count": 8634,
-  "jargon_density": 5.079825834542816,
-  "process_clarity": 1.0885341074020318,
-  "vague_terms": 2.9027576197387517,
-  "statistics_usage": 5,
-  "future_past_ratio": 0.8571428571428571,
-  "passive_voice_usage": 6.41025641025641,
+  "url": "https://www.mesh-ai.com/blog-posts/mesh-ai-partners-with-ds-smith-generative-ai-reimagine-packaging",
+  "word_count": 809,
+  "character_count": 7468,
+  "jargon_density": 1.2360939431396785,
+  "process_clarity": 1.6069221260815822,
+  "vague_terms": 6.1804697156983925,
+  "statistics_usage": 0,
+  "future_past_ratio": 1.0,
+  "passive_voice_usage": 19.444444444444446,
   "openai_analysis": {
-    "readability_score": 6,
-    "persuasiveness_score": 7,
-    "credibility_score": 8,
-    "engagement_score": 7,
-    "call_to_action_strength": 6,
-    "key_themes": [
-      "AI adoption",
-      "business strategy",
-      "industry leadership",
-      "cost optimization",
-      "future trends"
-    ],
-    "tone_analysis": "professional",
-    "target_audience": "business leaders and decision-makers in various industries"
+    "error": "OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-************************************************************************************************************************CfgA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
   },
-  "marketing_effectiveness_score": 100
+  "marketing_effectiveness_score": 43.501400906468895
 }

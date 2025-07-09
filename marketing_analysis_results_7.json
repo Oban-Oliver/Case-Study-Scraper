@@ -1,15 +1,15 @@
 {
-  "url": "https://www.deloitte.com/global/en/Industries/tmt/case-studies/digital-assets-deliver-more-than-faster-race-times.html",
-  "word_count": 1891,
-  "character_count": 13458,
-  "jargon_density": 2.908514013749339,
-  "process_clarity": 1.7451084082496033,
-  "vague_terms": 2.1152829190904283,
-  "statistics_usage": 2,
-  "future_past_ratio": 2.4285714285714284,
-  "passive_voice_usage": 2.0,
+  "url": "https://www.mesh-ai.com/blog-posts/harnessing-the-power-of-ai-machine-learning-to-drive-value-for-energy-utilities",
+  "word_count": 1354,
+  "character_count": 10971,
+  "jargon_density": 5.908419497784343,
+  "process_clarity": 1.7725258493353029,
+  "vague_terms": 5.908419497784343,
+  "statistics_usage": 0,
+  "future_past_ratio": 1.3333333333333333,
+  "passive_voice_usage": 21.153846153846153,
   "openai_analysis": {
     "error": "OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-************************************************************************************************************************CfgA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
   },
-  "marketing_effectiveness_score": 51.141980811362096
+  "marketing_effectiveness_score": 40.96630307162065
 }

@@ -1,15 +1,15 @@
 {
-  "url": "https://www.deloitte.com/global/en/Industries/energy/case-studies/one-giant-digital-lead-forward.html",
-  "word_count": 2578,
-  "character_count": 18147,
-  "jargon_density": 5.236617532971295,
-  "process_clarity": 1.5128006206361522,
-  "vague_terms": 3.1031807602792862,
-  "statistics_usage": 2,
-  "future_past_ratio": 1.6538461538461537,
-  "passive_voice_usage": 13.043478260869565,
+  "url": "https://www.mesh-ai.com/blog-posts/reimagining-travelex-unlocking-millions-in-revenue-with-cloud-data-platform-transformation",
+  "word_count": 1438,
+  "character_count": 11803,
+  "jargon_density": 1.7385257301808068,
+  "process_clarity": 0.764951321279555,
+  "vague_terms": 3.4770514603616136,
+  "statistics_usage": 7,
+  "future_past_ratio": 0.42857142857142855,
+  "passive_voice_usage": 16.94915254237288,
   "openai_analysis": {
     "error": "OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-************************************************************************************************************************CfgA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
   },
-  "marketing_effectiveness_score": 45.98126337857508
+  "marketing_effectiveness_score": 49.45354154108309
 }

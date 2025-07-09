@@ -450,13 +450,15 @@ def main():
     
     # Test URLs
     test_urls = [
-        "https://www.deloitte.com/global/en/services/consulting-financial/case-studies/67-days-from-engagement-to-success.html",
-        "https://www.deloitte.com/global/en/services/consulting-financial/case-studies/complex-divestment-of-global-assets.html",
-        "https://www.deloitte.com/global/en/services/consulting-financial/case-studies/gx-outsmarting-criminals-overcome-money-laundering.html",
-        "https://www.deloitte.com/global/en/Industries/energy/case-studies/one-giant-digital-lead-forward.html",
-        "https://www.deloitte.com/global/en/what-we-do/case-studies-collection/bringing-ai-to-the-forefront-of-a-tech-driven-food-revolution.html",
-        "https://www.deloitte.com/global/en/alliances/servicenow/case-studies/transforming-service-management-for-operational-excellence-and-innovation.html",
-        "https://www.deloitte.com/global/en/Industries/tmt/case-studies/digital-assets-deliver-more-than-faster-race-times.html"
+        "https://www.mesh-ai.com/blog-posts/modern-data-capabilities-to-solve-short-term-challenges-and-power-future-innovation",
+        "https://www.mesh-ai.com/blog-posts/mesh-ai-and-national-grid-ventures-leverage-ai-to-protect-critical-underwater-infrastructure",
+        "https://www.mesh-ai.com/blog-posts/reimagining-an-energy-enterprise-to-mitigate-reporting-fines-by-leveraging-azures-data-governance-solutions",
+        "https://www.mesh-ai.com/blog-posts/reimagining-travelex-unlocking-millions-in-revenue-with-cloud-data-platform-transformation",
+        "https://www.mesh-ai.com/blog-posts/reimagining-commercial-banking-increasing-agility-through-a-cohesive-ai-strategy",
+        "https://www.mesh-ai.com/blog-posts/transforming-energy-insights-strong-data-foundations-reach-net-zero",
+        "https://www.mesh-ai.com/blog-posts/harnessing-the-power-of-ai-machine-learning-to-drive-value-for-energy-utilities",
+        "https://www.mesh-ai.com/blog-posts/mesh-ai-partners-with-ds-smith-generative-ai-reimagine-packaging",
+        "https://www.mesh-ai.com/blog-posts/reimagining-energy-utilities-accelerating-net-zero-and-saving-millions-with-data-mesh-ai"
     ]
     
     analyzer = MarketingAnalyzer(api_key)
