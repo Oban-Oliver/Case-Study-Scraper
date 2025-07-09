@@ -1,15 +1,15 @@
 {
-  "url": "https://www.deloitte.com/global/en/alliances/servicenow/case-studies/transforming-service-management-for-operational-excellence-and-innovation.html",
-  "word_count": 2208,
-  "character_count": 16344,
-  "jargon_density": 2.2644927536231885,
-  "process_clarity": 2.355072463768116,
-  "vague_terms": 7.699275362318841,
-  "statistics_usage": 3,
-  "future_past_ratio": 0.8571428571428571,
-  "passive_voice_usage": 11.940298507462686,
+  "url": "https://www.deloitte.com/global/en/Industries/tmt/case-studies/digital-assets-deliver-more-than-faster-race-times.html",
+  "word_count": 1891,
+  "character_count": 13458,
+  "jargon_density": 2.908514013749339,
+  "process_clarity": 1.7451084082496033,
+  "vague_terms": 2.1152829190904283,
+  "statistics_usage": 2,
+  "future_past_ratio": 2.4285714285714284,
+  "passive_voice_usage": 2.0,
   "openai_analysis": {
     "error": "OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-************************************************************************************************************************CfgA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
   },
-  "marketing_effectiveness_score": 47.90238249745064
+  "marketing_effectiveness_score": 51.141980811362096
 }

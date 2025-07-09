@@ -1,15 +1,15 @@
 {
-  "url": "https://www.deloitte.com/global/en/services/consulting-financial/case-studies/complex-divestment-of-global-assets.html",
-  "word_count": 1420,
-  "character_count": 10402,
-  "jargon_density": 3.1690140845070425,
-  "process_clarity": 2.1830985915492955,
-  "vague_terms": 0.7042253521126761,
-  "statistics_usage": 0,
-  "future_past_ratio": 3.75,
-  "passive_voice_usage": 3.8461538461538463,
+  "url": "https://www.deloitte.com/global/en/services/consulting-financial/case-studies/gx-outsmarting-criminals-overcome-money-laundering.html",
+  "word_count": 1964,
+  "character_count": 14057,
+  "jargon_density": 2.0366598778004072,
+  "process_clarity": 1.7311608961303464,
+  "vague_terms": 1.5274949083503055,
+  "statistics_usage": 4,
+  "future_past_ratio": 1.5454545454545454,
+  "passive_voice_usage": 6.8181818181818175,
   "openai_analysis": {
     "error": "OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-************************************************************************************************************************CfgA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
   },
-  "marketing_effectiveness_score": 49.98347778981582
+  "marketing_effectiveness_score": 51.718218848361424
 }

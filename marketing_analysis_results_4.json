@@ -1,15 +1,15 @@
 {
-  "url": "https://www.deloitte.com/global/en/services/consulting-financial/case-studies/gx-outsmarting-criminals-overcome-money-laundering.html",
-  "word_count": 1964,
-  "character_count": 14057,
-  "jargon_density": 2.0366598778004072,
-  "process_clarity": 1.7311608961303464,
-  "vague_terms": 1.5274949083503055,
-  "statistics_usage": 4,
-  "future_past_ratio": 1.5454545454545454,
-  "passive_voice_usage": 6.8181818181818175,
+  "url": "https://www.deloitte.com/global/en/Industries/energy/case-studies/one-giant-digital-lead-forward.html",
+  "word_count": 2578,
+  "character_count": 18147,
+  "jargon_density": 5.236617532971295,
+  "process_clarity": 1.5128006206361522,
+  "vague_terms": 3.1031807602792862,
+  "statistics_usage": 2,
+  "future_past_ratio": 1.6538461538461537,
+  "passive_voice_usage": 13.043478260869565,
   "openai_analysis": {
     "error": "OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-************************************************************************************************************************CfgA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
   },
-  "marketing_effectiveness_score": 51.718218848361424
+  "marketing_effectiveness_score": 45.98126337857508
 }

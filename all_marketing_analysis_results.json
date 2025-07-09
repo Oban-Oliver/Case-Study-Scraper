@@ -15,21 +15,6 @@
     "marketing_effectiveness_score": 51.06296473924557
   },
   {
-    "url": "https://www.deloitte.com/global/en/services/consulting-financial/case-studies/67-days-from-engagement-to-success.html",
-    "word_count": 1612,
-    "character_count": 11519,
-    "jargon_density": 2.4813895781637716,
-    "process_clarity": 1.6129032258064515,
-    "vague_terms": 0.0,
-    "statistics_usage": 6,
-    "future_past_ratio": 0.8823529411764706,
-    "passive_voice_usage": 14.285714285714285,
-    "openai_analysis": {
-      "error": "OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-************************************************************************************************************************CfgA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
-    },
-    "marketing_effectiveness_score": 51.06296473924557
-  },
-  {
     "url": "https://www.deloitte.com/global/en/services/consulting-financial/case-studies/complex-divestment-of-global-assets.html",
     "word_count": 1420,
     "character_count": 10402,
@@ -103,5 +88,20 @@
       "error": "OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-************************************************************************************************************************CfgA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
     },
     "marketing_effectiveness_score": 47.90238249745064
+  },
+  {
+    "url": "https://www.deloitte.com/global/en/Industries/tmt/case-studies/digital-assets-deliver-more-than-faster-race-times.html",
+    "word_count": 1891,
+    "character_count": 13458,
+    "jargon_density": 2.908514013749339,
+    "process_clarity": 1.7451084082496033,
+    "vague_terms": 2.1152829190904283,
+    "statistics_usage": 2,
+    "future_past_ratio": 2.4285714285714284,
+    "passive_voice_usage": 2.0,
+    "openai_analysis": {
+      "error": "OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-************************************************************************************************************************CfgA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
+    },
+    "marketing_effectiveness_score": 51.141980811362096
   }
 ]
