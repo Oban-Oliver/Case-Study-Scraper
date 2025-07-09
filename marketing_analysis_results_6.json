@@ -1,15 +1,15 @@
 {
-  "url": "https://www.baringa.com/en/impact/case-studies/improving-customer-service/",
-  "word_count": 1109,
-  "character_count": 7319,
-  "jargon_density": 3.6068530207394045,
-  "process_clarity": 0.4508566275924256,
-  "vague_terms": 2.705139765554554,
-  "statistics_usage": 4,
-  "future_past_ratio": 0.4444444444444444,
-  "passive_voice_usage": 6.0606060606060606,
+  "url": "https://www.deloitte.com/global/en/what-we-do/case-studies-collection/bringing-ai-to-the-forefront-of-a-tech-driven-food-revolution.html",
+  "word_count": 1894,
+  "character_count": 13351,
+  "jargon_density": 2.6399155227032733,
+  "process_clarity": 2.2703273495248153,
+  "vague_terms": 2.1119324181626187,
+  "statistics_usage": 1,
+  "future_past_ratio": 2.3076923076923075,
+  "passive_voice_usage": 11.363636363636363,
   "openai_analysis": {
     "error": "OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-************************************************************************************************************************CfgA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
   },
-  "marketing_effectiveness_score": 49.30659525826342
+  "marketing_effectiveness_score": 48.16923741517194
 }

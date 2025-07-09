@@ -1,15 +1,15 @@
 {
-  "url": "https://www.ey.com/en_lt/insights/consulting/how-caterpillar-is-using-technology-on-its-journey-to-improve-financial-forecasting",
-  "word_count": 7888,
-  "character_count": 47477,
-  "jargon_density": 3.8666328600405677,
-  "process_clarity": 0.8493914807302232,
-  "vague_terms": 3.5496957403651117,
-  "statistics_usage": 2,
-  "future_past_ratio": 1.2727272727272727,
-  "passive_voice_usage": 7.428571428571429,
+  "url": "https://www.deloitte.com/global/en/services/consulting-financial/case-studies/complex-divestment-of-global-assets.html",
+  "word_count": 1420,
+  "character_count": 10402,
+  "jargon_density": 3.1690140845070425,
+  "process_clarity": 2.1830985915492955,
+  "vague_terms": 0.7042253521126761,
+  "statistics_usage": 0,
+  "future_past_ratio": 3.75,
+  "passive_voice_usage": 3.8461538461538463,
   "openai_analysis": {
     "error": "OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-************************************************************************************************************************CfgA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
   },
-  "marketing_effectiveness_score": 47.47714035457444
+  "marketing_effectiveness_score": 49.98347778981582
 }

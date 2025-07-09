@@ -13,5 +13,95 @@
       "error": "OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-************************************************************************************************************************CfgA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
     },
     "marketing_effectiveness_score": 51.141980811362096
+  },
+  {
+    "url": "https://www.deloitte.com/global/en/services/consulting-financial/case-studies/67-days-from-engagement-to-success.html",
+    "word_count": 1612,
+    "character_count": 11519,
+    "jargon_density": 2.4813895781637716,
+    "process_clarity": 1.6129032258064515,
+    "vague_terms": 0.0,
+    "statistics_usage": 6,
+    "future_past_ratio": 0.8823529411764706,
+    "passive_voice_usage": 14.285714285714285,
+    "openai_analysis": {
+      "error": "OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-************************************************************************************************************************CfgA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
+    },
+    "marketing_effectiveness_score": 51.06296473924557
+  },
+  {
+    "url": "https://www.deloitte.com/global/en/services/consulting-financial/case-studies/complex-divestment-of-global-assets.html",
+    "word_count": 1420,
+    "character_count": 10402,
+    "jargon_density": 3.1690140845070425,
+    "process_clarity": 2.1830985915492955,
+    "vague_terms": 0.7042253521126761,
+    "statistics_usage": 0,
+    "future_past_ratio": 3.75,
+    "passive_voice_usage": 3.8461538461538463,
+    "openai_analysis": {
+      "error": "OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-************************************************************************************************************************CfgA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
+    },
+    "marketing_effectiveness_score": 49.98347778981582
+  },
+  {
+    "url": "https://www.deloitte.com/global/en/services/consulting-financial/case-studies/gx-outsmarting-criminals-overcome-money-laundering.html",
+    "word_count": 1964,
+    "character_count": 14057,
+    "jargon_density": 2.0366598778004072,
+    "process_clarity": 1.7311608961303464,
+    "vague_terms": 1.5274949083503055,
+    "statistics_usage": 4,
+    "future_past_ratio": 1.5454545454545454,
+    "passive_voice_usage": 6.8181818181818175,
+    "openai_analysis": {
+      "error": "OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-************************************************************************************************************************CfgA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
+    },
+    "marketing_effectiveness_score": 51.718218848361424
+  },
+  {
+    "url": "https://www.deloitte.com/global/en/Industries/energy/case-studies/one-giant-digital-lead-forward.html",
+    "word_count": 2578,
+    "character_count": 18147,
+    "jargon_density": 5.236617532971295,
+    "process_clarity": 1.5128006206361522,
+    "vague_terms": 3.1031807602792862,
+    "statistics_usage": 2,
+    "future_past_ratio": 1.6538461538461537,
+    "passive_voice_usage": 13.043478260869565,
+    "openai_analysis": {
+      "error": "OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-************************************************************************************************************************CfgA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
+    },
+    "marketing_effectiveness_score": 45.98126337857508
+  },
+  {
+    "url": "https://www.deloitte.com/global/en/what-we-do/case-studies-collection/bringing-ai-to-the-forefront-of-a-tech-driven-food-revolution.html",
+    "word_count": 1894,
+    "character_count": 13351,
+    "jargon_density": 2.6399155227032733,
+    "process_clarity": 2.2703273495248153,
+    "vague_terms": 2.1119324181626187,
+    "statistics_usage": 1,
+    "future_past_ratio": 2.3076923076923075,
+    "passive_voice_usage": 11.363636363636363,
+    "openai_analysis": {
+      "error": "OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-************************************************************************************************************************CfgA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
+    },
+    "marketing_effectiveness_score": 48.16923741517194
+  },
+  {
+    "url": "https://www.deloitte.com/global/en/alliances/servicenow/case-studies/transforming-service-management-for-operational-excellence-and-innovation.html",
+    "word_count": 2208,
+    "character_count": 16344,
+    "jargon_density": 2.2644927536231885,
+    "process_clarity": 2.355072463768116,
+    "vague_terms": 7.699275362318841,
+    "statistics_usage": 3,
+    "future_past_ratio": 0.8571428571428571,
+    "passive_voice_usage": 11.940298507462686,
+    "openai_analysis": {
+      "error": "OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-************************************************************************************************************************CfgA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
+    },
+    "marketing_effectiveness_score": 47.90238249745064
   }
 ]

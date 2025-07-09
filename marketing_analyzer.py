@@ -450,7 +450,13 @@ def main():
     
     # Test URLs
     test_urls = [
-        "https://www.deloitte.com/global/en/Industries/tmt/case-studies/digital-assets-deliver-more-than-faster-race-times.html"
+        "https://www.deloitte.com/global/en/Industries/tmt/case-studies/digital-assets-deliver-more-than-faster-race-times.html",
+        "https://www.deloitte.com/global/en/services/consulting-financial/case-studies/67-days-from-engagement-to-success.html",
+        "https://www.deloitte.com/global/en/services/consulting-financial/case-studies/complex-divestment-of-global-assets.html",
+        "https://www.deloitte.com/global/en/services/consulting-financial/case-studies/gx-outsmarting-criminals-overcome-money-laundering.html",
+        "https://www.deloitte.com/global/en/Industries/energy/case-studies/one-giant-digital-lead-forward.html",
+        "https://www.deloitte.com/global/en/what-we-do/case-studies-collection/bringing-ai-to-the-forefront-of-a-tech-driven-food-revolution.html",
+        "https://www.deloitte.com/global/en/alliances/servicenow/case-studies/transforming-service-management-for-operational-excellence-and-innovation.html"
     ]
     
     analyzer = MarketingAnalyzer(api_key)

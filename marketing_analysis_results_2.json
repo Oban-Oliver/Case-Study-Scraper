@@ -1,15 +1,15 @@
 {
-  "url": "https://www.ey.com/en_lt/insights/consulting/how-bayer-is-unearthing-agronomy-future-with-generative-ai",
-  "word_count": 8655,
-  "character_count": 50886,
-  "jargon_density": 3.2928942807625647,
-  "process_clarity": 0.5083766608896592,
-  "vague_terms": 2.541883304448296,
-  "statistics_usage": 4,
-  "future_past_ratio": 1.368421052631579,
-  "passive_voice_usage": 3.8461538461538463,
+  "url": "https://www.deloitte.com/global/en/services/consulting-financial/case-studies/67-days-from-engagement-to-success.html",
+  "word_count": 1612,
+  "character_count": 11519,
+  "jargon_density": 2.4813895781637716,
+  "process_clarity": 1.6129032258064515,
+  "vague_terms": 0.0,
+  "statistics_usage": 6,
+  "future_past_ratio": 0.8823529411764706,
+  "passive_voice_usage": 14.285714285714285,
   "openai_analysis": {
     "error": "OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-************************************************************************************************************************CfgA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
   },
-  "marketing_effectiveness_score": 50.41920258585406
+  "marketing_effectiveness_score": 51.06296473924557
 }
