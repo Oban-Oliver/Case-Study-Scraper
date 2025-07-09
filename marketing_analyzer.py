@@ -450,7 +450,7 @@ def main():
     
     # Test URLs
     test_urls = [
-        "https://www.deloitte.com/global/en/Industries/tmt/case-studies/digital-assets-deliver-more-than-faster-race-times.html",
+        "https://www.deloitte.com/global/en/services/consulting-financial/case-studies/67-days-from-engagement-to-success.html",
         "https://www.deloitte.com/global/en/services/consulting-financial/case-studies/67-days-from-engagement-to-success.html",
         "https://www.deloitte.com/global/en/services/consulting-financial/case-studies/complex-divestment-of-global-assets.html",
         "https://www.deloitte.com/global/en/services/consulting-financial/case-studies/gx-outsmarting-criminals-overcome-money-laundering.html",
